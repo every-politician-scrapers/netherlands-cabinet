@@ -12,6 +12,14 @@ class MemberList
     end
 
     field :position do
+      return raw_position unless raw_position.include? 'Prime Minister'
+
+      raw_position.split(', ', 2)
+    end
+
+    private
+
+    def raw_position
       noko.css('p').text.tidy
     end
   end
@@ -19,12 +27,15 @@ class MemberList
   # The page listing all the members
   class Members < Scraped::HTML
     field :members do
-      container.map { |member| fragment(member => Member).to_h }
+      member_container.flat_map do |member|
+        data = fragment(member => Member).to_h
+        [data.delete(:position)].flatten.map { |posn| data.merge(position: posn) }
+      end
     end
 
     private
 
-    def container
+    def member_container
       noko.css('ul.results li')
     end
   end
