@@ -1,0 +1,649 @@
+{
+  "title": "Ben Knapen",
+  "pageID": 30998341,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Christian Democratic Appeal politicians",
+    "Dutch academics",
+    "Dutch columnists",
+    "Dutch corporate directors",
+    "Dutch essayists",
+    "Dutch historians",
+    "Dutch journalists",
+    "Dutch newspaper editors",
+    "Dutch nonprofit executives",
+    "Dutch nonprofit directors",
+    "Dutch political commentators",
+    "Dutch political scientists",
+    "Dutch political writers",
+    "Dutch reporters and correspondents",
+    "Dutch republicans",
+    "Dutch Roman Catholics",
+    "Knights of the Order of Orange-Nassau",
+    "Members of the Scientific Council for Government Policy",
+    "Members of the Senate (Netherlands)",
+    "Ministers of Foreign Affairs of the Netherlands",
+    "People from Loon op Zand",
+    "Radboud University Nijmegen alumni",
+    "Radboud University Nijmegen faculty",
+    "State Secretaries for Foreign Affairs of the Netherlands",
+    "20th-century Dutch businesspeople",
+    "20th-century Dutch civil servants",
+    "20th-century Dutch educators",
+    "20th-century Dutch male writers",
+    "20th-century Dutch politicians",
+    "20th-century Dutch scientists",
+    "21st-century Dutch businesspeople",
+    "21st-century Dutch civil servants",
+    "21st-century Dutch educators",
+    "21st-century Dutch male writers",
+    "21st-century Dutch politicians",
+    "21st-century Dutch scientists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hubertus Petrus Maria \"Ben\" Knapen (born 6 January 1951) is a Dutch historian and politician serving as Minister of Foreign Affairs since 24 September 2021.",
+              "links": [
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister of Foreign Affairs of the Netherlands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Hubertus Petrus Maria \"Ben\" Knapen"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Christian Democratic Appeal (CDA), he previously was State Secretary for Foreign Affairs from 2010 to 2012 and parliamentary leader in the Senate from 2019 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christian Democratic Appeal"
+                },
+                {
+                  "text": "State Secretary for Foreign Affairs",
+                  "type": "internal",
+                  "page": "List of Ministers of Foreign Affairs of the Netherlands"
+                },
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate (Netherlands)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "df": "y",
+          "year": "1951",
+          "month": "01",
+          "day": "06",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ben Knapen"
+          },
+          "image": {
+            "text": "Ben Knapen, 2021.jpg"
+          },
+          "caption": {
+            "text": "Knapen in 2021"
+          },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 September 2021"
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Tom de Bruijn (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tom de Bruijn"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "ad interim"
+              ]
+            }
+          },
+          "office1": {
+            "text": "Leader of the Christian Democratic Appeal in the Senate",
+            "links": [
+              {
+                "text": "Leader",
+                "type": "internal",
+                "page": "Parliamentary leader"
+              },
+              {
+                "type": "internal",
+                "page": "Christian Democratic Appeal"
+              },
+              {
+                "text": "Senate",
+                "type": "internal",
+                "page": "Senate (Netherlands)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 June 2019"
+          },
+          "term_end1": {
+            "text": "24 September 2021"
+          },
+          "predecessor1": {
+            "text": "Elco Brinkman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elco Brinkman"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Joop Atsma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Joop Atsma"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Senator of the Netherlands",
+            "links": [
+              {
+                "text": "Senator of the Netherlands",
+                "type": "internal",
+                "page": "Senate (Netherlands)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "9 June 2015"
+          },
+          "term_end2": {
+            "text": "24 September 2021"
+          },
+          "parliamentarygroup2": {
+            "text": "Christian Democratic Appeal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christian Democratic Appeal"
+              }
+            ]
+          },
+          "office3": {
+            "text": "State Secretary for Foreign Affairs",
+            "links": [
+              {
+                "text": "State Secretary for Foreign Affairs",
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "14 October 2010"
+          },
+          "term_end3": {
+            "text": "5 November 2012"
+          },
+          "primeminister3": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Frans Timmermans",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frans Timmermans"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Office not in use",
+            "formatting": {
+              "italic": [
+                "Office not in use"
+              ]
+            }
+          },
+          "office4": {
+            "text": "Member of the Scientific Council for Government Policy",
+            "links": [
+              {
+                "text": "Member of the Scientific Council for Government Policy",
+                "type": "internal",
+                "page": "Scientific Council for Government Policy"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 January 2008"
+          },
+          "term_end4": {
+            "text": "5 November 2012"
+          },
+          "birthname": {
+            "text": "Hubertus Petrus Maria Knapen"
+          },
+          "birth_date": {
+            "text": "January 6, 1951"
+          },
+          "birth_place": {
+            "text": "Kaatsheuvel, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaatsheuvel"
+              },
+              {
+                "type": "internal",
+                "page": "Netherlands"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "Christian Democratic Appeal (since 1997)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christian Democratic Appeal"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Radboud University Nijmegen (Bachelor of Arts, Master of Arts, Doctor of Philosophy)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Radboud University Nijmegen"
+              },
+              {
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Master of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician · Civil servant · Political scientist · Historian · Researcher · Businessman · Corporate director · Nonprofit director · Journalist · Editor · Author · Columnist · Political pundit · Professor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politician"
+              },
+              {
+                "text": "Civil servant",
+                "type": "internal",
+                "page": "Civil service"
+              },
+              {
+                "text": "Political scientist",
+                "type": "internal",
+                "page": "Political science"
+              },
+              {
+                "type": "internal",
+                "page": "Historian"
+              },
+              {
+                "text": "Researcher",
+                "type": "internal",
+                "page": "Research"
+              },
+              {
+                "text": "Businessman",
+                "type": "internal",
+                "page": "Businessperson"
+              },
+              {
+                "text": "Corporate director",
+                "type": "internal",
+                "page": "Board of directors"
+              },
+              {
+                "text": "Nonprofit director",
+                "type": "internal",
+                "page": "Board of directors"
+              },
+              {
+                "type": "internal",
+                "page": "Journalist"
+              },
+              {
+                "text": "Editor",
+                "type": "internal",
+                "page": "Editing"
+              },
+              {
+                "type": "internal",
+                "page": "Author"
+              },
+              {
+                "type": "internal",
+                "page": "Columnist"
+              },
+              {
+                "text": "Political pundit",
+                "type": "internal",
+                "page": "Pundit"
+              },
+              {
+                "type": "internal",
+                "page": "Professor"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Knapen was the State Secretary for Foreign Affairs in the first Rutte cabinet, serving from 14 October 2010 to 5 November 2012.",
+              "links": [
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Netherlands)"
+                },
+                {
+                  "text": "Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Netherlands)"
+                },
+                {
+                  "text": "first Rutte cabinet",
+                  "type": "internal",
+                  "page": "first Rutte cabinet"
+                }
+              ]
+            },
+            {
+              "text": "His portfolio comprised European Union matters, as well as international aid.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "text": "international aid",
+                  "type": "internal",
+                  "page": "international aid"
+                }
+              ]
+            },
+            {
+              "text": "Then he was on the advisory board of OMFIF where he was regularly involved in meetings regarding the financial and monetary system."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Other activities",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "African Development Bank (AfDB), Ex-Officio Member of the Board of Governors (2010–2012)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "African Development Bank"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Decorations",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Ribbon bar": {
+              "text": "NLD Order of Orange-Nassau - Knight BAR.png"
+            },
+            "Honour": {
+              "text": "Knight of the Order of Orange-Nassau",
+              "links": [
+                {
+                  "text": "Knight",
+                  "type": "internal",
+                  "page": "Order (distinction)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Order of Orange-Nassau"
+                }
+              ]
+            },
+            "Country": {
+              "text": "Netherlands"
+            },
+            "Date": {
+              "text": "7 December 2012"
+            },
+            "Comment": {
+              "text": ""
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "list": [
+            "nl"
+          ],
+          "template": "in lang"
+        },
+        {
+          "list": [
+            "nl"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Elco Brinkman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Christian Democratic Appeal in the Senate",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Frans Timmermans",
+          "template": "s-bef"
+        },
+        {
+          "title": "LState Secretary for Foreign Affairs",
+          "years": "2010–2012",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-vac"
+        },
+        {
+          "template": "ministers of foreign affairs of the netherlands"
+        },
+        {
+          "template": "state secretaries for foreign affairs of the netherlands"
+        },
+        {
+          "template": "third rutte cabinet"
+        },
+        {
+          "template": "first rutte cabinet"
+        },
+        {
+          "template": "members of the senate of the netherlands, 2019–2023"
+        },
+        {
+          "template": "members of the senate of the netherlands, 2015–2019"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "netherlands-cda-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official"
+          },
+          {
+            "text": "Dr. H.P.M. (Ben) Knapen Parlement & Politiek",
+            "links": [
+              {
+                "text": "Dr. H.P.M. (Ben) Knapen",
+                "type": "external",
+                "site": "https://www.parlement.com/id/vijdbl72xevu/h_p_m_ben_knapen"
+              }
+            ]
+          },
+          {
+            "text": "Dr. H.P.M. Knapen (CDA) Eerste Kamer der Staten-Generaal",
+            "links": [
+              {
+                "text": "Dr. H.P.M. Knapen (CDA)",
+                "type": "external",
+                "site": "https://www.eerstekamer.nl/persoon/dr_h_p_m_knapen_cda"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
