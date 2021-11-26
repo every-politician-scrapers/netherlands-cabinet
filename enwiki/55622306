@@ -311,6 +311,15 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Ferd Grapperhaus",
+          "lt": "Ferd Grapperhaus",
+          "lan1": "nl",
+          "text1": "Ferd Grapperhaus",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "https://www.volkskrant.nl/politiek/rutte-iii-krijgt-nu-snel-vorm-dekker-naar-veiligheid-uwv-baas-bruins-op-onderwijs~a4522287/",
