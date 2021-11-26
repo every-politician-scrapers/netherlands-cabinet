@@ -811,6 +811,13 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Maerlant Lyceum",
+          "lan1": "nl",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "template": "citation",

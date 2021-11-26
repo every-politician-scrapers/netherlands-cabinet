@@ -20,6 +20,7 @@
     "Living people",
     "Members of the Council of State (Netherlands)",
     "People educated at Atlantic College",
+    "People educated at a United World College",
     "People from Utrecht (city)",
     "People from Wassenaar",
     "Princes of Orange",
@@ -466,8 +467,11 @@
               "links": [
                 {
                   "text": "Utrecht University Hospital",
-                  "type": "internal",
-                  "page": ":nl: Academisch Ziekenhuis Utrecht"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "nl"
+                  }
                 },
                 {
                   "type": "internal",
@@ -582,9 +586,11 @@
                   "page": "Jonkvrouw"
                 },
                 {
-                  "text": "Röell",
-                  "type": "internal",
-                  "page": ":nl:Röell"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "nl"
+                  }
                 },
                 {
                   "type": "internal",

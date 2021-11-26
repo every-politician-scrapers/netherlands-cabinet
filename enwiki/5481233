@@ -320,8 +320,11 @@
                 },
                 {
                   "text": "state commissions",
-                  "type": "internal",
-                  "page": ":nl:Staatscommissie"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "nl"
+                  }
                 },
                 {
                   "text": "Healthcare Providers association",
