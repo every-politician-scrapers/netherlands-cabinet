@@ -199,52 +199,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "third rutte cabinet"
-        },
-        {
-          "template": "members of the house of representatives of the netherlands, 2021–present"
-        },
-        {
-          "template": "members of the house of representatives of the netherlands, 2017–2021"
-        },
-        {
-          "template": "netherlands-vvd-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Parliamentary biography",
-            "links": [
-              {
-                "text": "Parliamentary biography",
-                "type": "external",
-                "site": "https://www.tweedekamer.nl/kamerleden_en_commissies/alle_kamerleden/wiersma-ad-vvd"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

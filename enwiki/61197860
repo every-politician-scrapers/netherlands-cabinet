@@ -228,27 +228,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "presidents of the senate of the netherlands"
-        },
-        {
-          "template": "members of the senate of the netherlands, 2015–19"
-        },
-        {
-          "template": "members of the senate of the netherlands, 2011–15"
-        },
-        {
-          "template": "netherlands-vvd-politician-stub"
-        }
-      ]
     }
   ]
 }
