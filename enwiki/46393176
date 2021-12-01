@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Swedish-Dutch politician of Democrats 66 (D66), who has been serving as second Deputy Prime Minister of the Netherlands since 14 May 2020 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet since 14 April 2020.",
+              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; born 28 May 1967) is a Dutch politician of the Democrats 66 (D66) party, who has been serving as second Deputy Prime Minister of the Netherlands since 14 May 2020 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet since 14 April 2020.",
               "links": [
                 {
                   "text": "Jkvr.",
@@ -66,7 +66,9 @@
               ],
               "formatting": {
                 "bold": [
-                  "Karin Hildur \"Kajsa\" Ollongren"
+                  "Karin Hildur",
+                  "Kajsa",
+                  "Ollongren"
                 ]
               }
             }
@@ -74,6 +76,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
         {
           "description": "Dutch politician",
           "template": "short description"
@@ -96,10 +102,6 @@
         },
         {
           "transcription": "ˈɔlɔŋgrɛn",
-          "template": "ipa"
-        },
-        {
-          "transcription": "²ka͜ɪsa ˈɔlɔnɡreːn",
           "template": "ipa"
         }
       ],
@@ -344,20 +346,13 @@
             "text": "May 28, 1967"
           },
           "birth_place": {
-            "text": "Leiden, South Holland, Netherlands",
+            "text": "Leiden, Netherlands",
             "links": [
               {
                 "type": "internal",
                 "page": "Leiden"
-              },
-              {
-                "type": "internal",
-                "page": "South Holland"
               }
             ]
-          },
-          "nationality": {
-            "text": "Dutch, Swedish"
           },
           "party": {
             "text": "Democrats 66 (1993–present)",
@@ -385,15 +380,11 @@
             ]
           },
           "residence": {
-            "text": "Amsterdam, North Holland, Netherlands",
+            "text": "Amsterdam, Netherlands",
             "links": [
               {
                 "type": "internal",
                 "page": "Amsterdam"
-              },
-              {
-                "type": "internal",
-                "page": "North Holland"
               }
             ]
           },
@@ -424,14 +415,14 @@
             ]
           },
           "occupation": {
-            "text": "Politician · Civil servant",
+            "text": "Politician, civil servant",
             "links": [
               {
                 "type": "internal",
                 "page": "Politician"
               },
               {
-                "text": "Civil servant",
+                "text": "civil servant",
                 "type": "internal",
                 "page": "Civil service"
               }
