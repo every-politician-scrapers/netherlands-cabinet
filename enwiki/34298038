@@ -102,6 +102,27 @@
             "text": "Klaas Knot"
           },
           "office": {
+            "text": "Chair of the Financial Stability Board",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Financial Stability Board"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 12, 2021"
+          },
+          "predecessor": {
+            "text": "Randal Quarles",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Randal Quarles"
+              }
+            ]
+          },
+          "office1": {
             "text": "President of De Nederlandsche Bank",
             "links": [
               {
@@ -110,10 +131,10 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "1 July 2011"
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Nout Wellink",
             "links": [
               {
