@@ -299,6 +299,13 @@
           "template": "use dmy dates"
         },
         {
+          "country": "AUS",
+          "list": [
+            "AC"
+          ],
+          "template": "post-nominals"
+        },
+        {
           "year": "1967",
           "month": "2",
           "day": "14",
