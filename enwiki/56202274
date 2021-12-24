@@ -19,7 +19,7 @@
         {
           "sentences": [
             {
-              "text": "Paulus \"Paul\" Blokhuis (born 14 November 1963) is a Dutch politician serving as State Secretary for Health, Welfare and Sports in the Third Rutte cabinet since 2017.",
+              "text": "Paulus \"Paul\" Blokhuis (born 14 November 1963) is a Dutch politician serving as State Secretary for Health, Welfare and Sport in the Third Rutte cabinet since 2017.",
               "links": [
                 {
                   "text": "State Secretary",
@@ -27,7 +27,7 @@
                   "page": "Secretary of state"
                 },
                 {
-                  "text": "Health, Welfare and Sports",
+                  "text": "Health, Welfare and Sport",
                   "type": "internal",
                   "page": "Ministry of Health, Welfare and Sport (Netherlands)"
                 },
@@ -114,7 +114,7 @@
             ]
           },
           "image": {
-            "text": "Staatssecretaris_Paul_Blokhuis.jpg"
+            "text": "Paul Blokhuis (2017).jpg"
           },
           "predecessor": {
             "text": "Martin van Rijn",
@@ -136,7 +136,7 @@
             ]
           },
           "caption": {
-            "text": "Blokhuis in 2018"
+            "text": "Blokhuis in 2017"
           },
           "birth_date": {
             "text": "November 14, 1963"
