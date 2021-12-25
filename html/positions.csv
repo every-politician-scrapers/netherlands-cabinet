@@ -1,0 +1,41 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q2045066,Monarch of the Netherlands,Q29999,Q29999,,Q3254688,,,,,
+Q3058109,Prime Minister of the Netherlands,Q55,Q29999,Q2430481,Q840621,1848-03-25,,,,Prime Minister of the Netherlands
+Q2430481,Deputy Prime Minister of the Netherlands,Q55,Q55,,,,,,,Deputy Prime Minister of the Netherlands
+Q61188918,Minister of Agriculture,Q55,Q29999,,Q2123618,,,,,
+Q20740176,Minister of Defence,Q55,Q55,,,,,,,
+Q2339443,Minister for Development Cooperation,Q55,Q55,,,,,,,
+Q34922594,Minister for Development Cooperation,Q55,Q55,,,,,,,
+Q26720684,State Secretary for Economic Affairs,Q55,Q55,,,,,,,
+Q108274706,"State Secretary for Economic Affairs, Agriculture and Innovation",Q55,Q29999,,Q2580022,,,,,
+Q26197292,Minister of Economic Affairs and Climate Policy,Q55,Q55,,,,,,,
+Q15729678,"Minister of Education, Culture and Science",Q55,Q55,,Q1903665,,,,,
+Q20677341,Minister of Finance of the Netherlands,Q55,Q55,,,,,,,
+Q20007045,Minister of Foreign Affairs,Q55,Q55,,Q783981,,,,,
+Q2572883,Minister for Foreign Trade and Development Cooperation,Q55,Q55,,,,,,,Minister for Foreign Trade and Development Cooperation (Netherlands)
+Q27517058,Minister of General Affairs,Q55,Q55,,Q1977222,,,,,
+Q13858714,Minister of Housing and the Central Government Sector,Q55,Q55,,,2012-11-05,,,,
+Q106628814,"Minister of Housing, Spatial Planning and the Environment",Q55,Q29999,,Q4768198,,,,,
+Q26197286,Minister of Infrastructure and Environment,Q55,Q55,,,,,,,
+Q20746056,Minister of Justice and Security,Q55,Q55,,,,,,,
+Q42328404,Minister for Legal Protection,Q55,Q55,,,,,,,
+Q2444487,"Minister of Living, Districts and Integration",Q55,Q55,,,,,,,
+Q42328399,Minister for Medical Care,Q55,Q55,,,,,,,
+Q106979001,Dutch State Secretary for Justice and Security,Q55,Q55,,,,,,,
+Q42328366,Minister for Primary and Secondary Education and Media,Q55,Q55,,,,,,,
+Q15726205,"Minister of Public Health, Welfare and Sport",Q55,Q55,,Q2617055,,,,,
+Q27517113,Minister of Social Affairs,Q55,Q55,,Q13753435,,,,,
+Q27517113,Minister of Social Affairs,Q55,Q55,,Q13753435,,,,,
+Q15729702,Minister of the Interior and Kingdom Relations,Q55,Q55,,,,,,,
+Q106979005,Dutch State Secretary for Economic Affairs and Climate Policy,Q55,Q55,,,,,,,
+Q105752943,Secretary of finance of The Netherlands,Q55,Q29999,,Q2014402,,,,,
+Q107751212,"Dutch State Secretary for Health, Welfare and Sport",Q55,Q55,,,,,,,
+Q106531662,State Secretary for Infrastructure and Water Management,Q55,Q29999,,Q1957818,,,,,
+Q106979065,Dutch State Secretary for the Interior and Kingdom Relations,Q55,Q55,,,,,,,
+Q1956567,Minister Plenipotentiary of Aruba,Q55,,,,,,,,Minister Plenipotentiary of Aruba
+Q2735967,Minister Plenipotentiary of Curaçao,Q55,,,,,,,,Minister Plenipotentiary of Curaçao
+Q2566997,Minister Plenipotentiary of Sint Maarten,Q55,Q26273,,,,,,,Minister Plenipotentiary of Sint Maarten
+Q251747,President of the Senate of the Netherlands,Q55,Q55,,,,,,,President of the Senate (Netherlands)
+Q2588268,Speaker of the House of Representatives,Q55,Q55,,,,,,,Speaker of the House of Representatives (Netherlands)
+Q109549719,President of De Nederlandsche Bank,Q55,,,,,,,,
+Q2215003,Chief of Defence,Q55,,,,2005-09-05,,,,Chief of Defence (Netherlands)
