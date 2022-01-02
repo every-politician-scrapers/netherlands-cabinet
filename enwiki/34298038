@@ -165,44 +165,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://www.nu.nl/economie/2519839/klaas-knot-wordt-nieuwe-president-dnb.html",
-          "title": "Klaas Knot wordt nieuwe president van DNB",
-          "date": "2011-05-20",
-          "website": "NU.nl",
-          "language": "nl",
-          "archive-url": "https://web.archive.org/web/20110522082649/http://www.nu.nl/economie/2519839/klaas-knot-wordt-nieuwe-president-dnb.html",
-          "archive-date": "2011-05-22",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.foliaweb.nl/organisatie/president-de-nederlandsche-bank-benoemd-tot-hoogleraar/",
-          "title": "President De Nederlandsche Bank benoemd tot hoogleraar",
-          "website": "Folia.nl",
-          "date": "2015-01-05",
-          "first": "Dirk",
-          "last": "Wolthekker",
-          "language": "nl",
-          "archive-url": "https://web.archive.org/web/20150608223103/www.foliaweb.nl/organisatie/president-de-nederlandsche-bank-benoemd-tot-hoogleraar/",
-          "archive-date": "2015-06-08",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rug.nl/staff/k.h.w.knot/",
-          "title": "Prof. Dr. K.H.W. (Klaas) Knot",
-          "publisher": "Rijksuniversiteit Groningen",
-          "archive-url": "https://web.archive.org/web/20211108193512/https://www.rug.nl/staff/k.h.w.knot/",
-          "archive-date": "2021-11-08",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

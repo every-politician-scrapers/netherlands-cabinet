@@ -664,38 +664,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://nos.nl/artikel/2220698-stef-blok-nieuwe-minister-van-buitenlandse-zaken.html",
-          "title": "Stef Blok nieuwe minister van Buitenlandse Zaken",
-          "publisher": "NOS",
-          "date": "5 March 2018",
-          "access-date": "5 March 2018",
-          "language": "nl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rtlnieuws.nl/nederland/politiek/stef-blok-wordt-minister-van-buitenlandse-zaken",
-          "title": "Stef Blok wordt minister van Buitenlandse Zaken",
-          "publisher": "RTL Nieuws",
-          "date": "5 March 2018",
-          "access-date": "5 March 2018",
-          "language": "nl",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.nu.nl/politiek/5161244/vvder-stef-blok-volgt-halbe-zijlstra-als-minister-van-buitenlandse-zaken.html",
-          "title": "'VVD'er Stef Blok volgt Halbe Zijlstra op als minister van Buitenlandse Zaken'",
-          "publisher": "NU.nl",
-          "date": "5 March 2018",
-          "access-date": "5 March 2018",
-          "language": "nl",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
