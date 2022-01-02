@@ -413,47 +413,6 @@
             "text": "Handtekening Willem-Alexander.svg"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://sportsillustrated.cnn.com/-olympics/news/20130129/dutch-crown-prince-willem-alexander-ioc.ap/",
-          "title": "Dutch Crown Prince quits IOC in preparation to become king",
-          "newspaper": "Sports Illustrated",
-          "year": "2013",
-          "access-date": "19 April 2013",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20131213032548/http://sportsillustrated.cnn.com/-olympics/news/20130129/dutch-crown-prince-willem-alexander-ioc.ap/",
-          "archive-date": "13 December 2013",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "language": "nl",
-          "url": "http://www.volkskrant.nl/vk/nl/5751/Koninginnedag/article/detail/3426860/2013/04/16/Prins-Willem-Alexander-neemt-afscheid-van-Adviescommissie-Water.dhtml",
-          "title": "Prins Willem-Alexander neemt afscheid van Adviescommissie Water",
-          "newspaper": "de Volkskrant",
-          "year": "2013",
-          "access-date": "19 April 2013",
-          "url-status": "live",
-          "archive-url": "https://web.archive.org/web/20130506222523/http://www.volkskrant.nl/vk/nl/5751/Koninginnedag/article/detail/3426860/2013/04/16/Prins-Willem-Alexander-neemt-afscheid-van-Adviescommissie-Water.dhtml",
-          "archive-date": "6 May 2013",
-          "df": "dmy-all",
-          "template": "citation",
-          "type": "citation"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

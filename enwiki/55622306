@@ -200,47 +200,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.telegraaf.nl/nieuws/1600382942/minister-ferd-grapperhaus-geeft-jawoord",
-          "title": "Minister Ferd Grapperhaus geeft jawoord",
-          "date": "24 August 2020",
-          "publisher": "De Telegraaf",
-          "access-date": "28 August 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.trouw.nl/leven/ferd-grapperhaus-ik-kan-erg-heftig-reageren-op-dingen~ba7543fe/",
-          "title": "Ferd Grapperhaus: 'Ik kan erg heftig reageren op dingen'",
-          "last": "Visser",
-          "first": "Arjan",
-          "date": "18 July 2020",
-          "publisher": "Trouw",
-          "access-date": "28 August 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://twitter.com/ferdgrapperhaus",
-          "title": "Ferd Grapperhaus (@ferdgrapperhaus)",
-          "website": "Twitter",
-          "access-date": "28 August 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "publisher": "Nederlandse Omroep Stichting",
-          "date": "23 October 2017",
-          "title": "Ferdinand Grapperhaus (CDA), nieuwkomer in Den Haag",
-          "url": "https://nos.nl/artikel/2199334-ferdinand-grapperhaus-cda-nieuwkomer-in-den-haag.html",
-          "language": "nl",
-          "work": "NOS.nl",
-          "access-date": "25 October 2017",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

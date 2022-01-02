@@ -167,18 +167,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rijksoverheid.nl/regering/bewindspersonen/paul-blokhuis/cv",
-          "title": "CV",
-          "last": "Ministerie van Algemene Zaken",
-          "website": "www.rijksoverheid.nl",
-          "language": "nl-NL",
-          "access-date": "2018-01-03",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

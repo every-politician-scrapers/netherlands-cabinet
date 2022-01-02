@@ -241,24 +241,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Twee nieuwe staatssecretarissen Financiën: D66'ers Van Huffelen en Vijlbrief",
-          "date": "26 January 2020",
-          "work": "Algemeen Dagblad",
-          "url": "https://www.ad.nl/binnenland/twee-nieuwe-staatssecretarissen-financien-d66-ers-van-huffelen-en-vijlbrief~a5e3135f/",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Senator Van Huffelen verlaat Eerste Kamer",
-          "date": "28 January 2020",
-          "website": "Eerste Kamer",
-          "url": "https://www.eerstekamer.nl/nieuws/20200128/senator_van_huffelen_verlaat",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
