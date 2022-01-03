@@ -87,23 +87,77 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Wopke Hoekstra"
           },
           "image": {
             "text": "Wopke Hoekstra 2019 (cropped).jpg"
           },
+          "office": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+              }
+            ]
+          },
+          "status": {
+            "text": "Designate"
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "succeeding": {
+            "text": "Ben Knapen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Knapen"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ben Knapen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Knapen"
+              }
+            ]
+          },
           "office1": {
+            "text": "Leader of the Christian Democratic Appeal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leader of the Christian Democratic Appeal"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 December 2020"
+          },
+          "predecessor1": {
+            "text": "Hugo de Jonge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugo de Jonge"
+              }
+            ]
+          },
+          "office2": {
             "text": "Minister of Finance",
             "links": [
               {
@@ -113,7 +167,7 @@
               }
             ]
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Mark Rutte",
             "links": [
               {
@@ -122,10 +176,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "26 October 2017"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Jeroen Dijsselbloem",
             "links": [
               {
@@ -134,24 +188,12 @@
               }
             ]
           },
-          "office": {
-            "text": "Leader of the Christian Democratic Appeal",
+          "successor2": {
+            "text": "Sigrid Kaag (Designate)",
             "links": [
               {
                 "type": "internal",
-                "page": "Leader of the Christian Democratic Appeal"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "11 December 2020"
-          },
-          "predecessor": {
-            "text": "Hugo de Jonge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hugo de Jonge"
+                "page": "Sigrid Kaag"
               }
             ]
           },
@@ -174,11 +216,6 @@
           "office4": {
             "text": "Member of the House of Representatives",
             "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of parliament"
-              },
               {
                 "text": "House of Representatives",
                 "type": "internal",
@@ -205,15 +242,6 @@
               {
                 "type": "internal",
                 "page": "Netherlands"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Bussum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bussum"
               }
             ]
           },

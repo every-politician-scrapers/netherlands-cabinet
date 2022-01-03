@@ -93,31 +93,18 @@
         {
           "df": "y",
           "year": "1951",
-          "month": "01",
-          "day": "06",
+          "month": "1",
+          "day": "6",
           "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Ben Knapen"
           },
           "image": {
             "text": "Ben Knapen, 2021.jpg"
-          },
-          "caption": {
-            "text": "Knapen in 2021"
           },
           "office": {
             "text": "Minister of Foreign Affairs",
@@ -125,12 +112,9 @@
               {
                 "text": "Minister of Foreign Affairs",
                 "type": "internal",
-                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+                "page": "Minister of Foreign Affairs of the Netherlands"
               }
             ]
-          },
-          "term_start": {
-            "text": "24 September 2021"
           },
           "primeminister": {
             "text": "Mark Rutte",
@@ -141,28 +125,30 @@
               }
             ]
           },
+          "term_start": {
+            "text": "24 September 2021"
+          },
           "predecessor": {
-            "text": "Tom de Bruijn (ad interim)",
+            "text": "Tom de Bruijn (Acting)",
             "links": [
               {
                 "type": "internal",
                 "page": "Tom de Bruijn"
               }
-            ],
-            "formatting": {
-              "italic": [
-                "ad interim"
-              ]
-            }
+            ]
+          },
+          "successor": {
+            "text": "Wopke Hoekstra (Designate)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wopke Hoekstra"
+              }
+            ]
           },
           "office1": {
             "text": "Leader of the Christian Democratic Appeal in the Senate",
             "links": [
-              {
-                "text": "Leader",
-                "type": "internal",
-                "page": "Parliamentary leader"
-              },
               {
                 "type": "internal",
                 "page": "Christian Democratic Appeal"
@@ -214,30 +200,15 @@
           "term_end2": {
             "text": "24 September 2021"
           },
-          "parliamentarygroup2": {
-            "text": "Christian Democratic Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Democratic Appeal"
-              }
-            ]
-          },
           "office3": {
             "text": "State Secretary for Foreign Affairs",
             "links": [
               {
                 "text": "State Secretary for Foreign Affairs",
                 "type": "internal",
-                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+                "page": "Minister of Foreign Affairs of the Netherlands"
               }
             ]
-          },
-          "term_start3": {
-            "text": "14 October 2010"
-          },
-          "term_end3": {
-            "text": "5 November 2012"
           },
           "primeminister3": {
             "text": "Mark Rutte",
@@ -247,6 +218,12 @@
                 "page": "Mark Rutte"
               }
             ]
+          },
+          "term_start3": {
+            "text": "14 October 2010"
+          },
+          "term_end3": {
+            "text": "5 November 2012"
           },
           "predecessor3": {
             "text": "Frans Timmermans",
@@ -258,30 +235,9 @@
             ]
           },
           "successor3": {
-            "text": "Office not in use",
-            "formatting": {
-              "italic": [
-                "Office not in use"
-              ]
-            }
+            "text": "Position abolished"
           },
-          "office4": {
-            "text": "Member of the Scientific Council for Government Policy",
-            "links": [
-              {
-                "text": "Member of the Scientific Council for Government Policy",
-                "type": "internal",
-                "page": "Scientific Council for Government Policy"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 January 2008"
-          },
-          "term_end4": {
-            "text": "5 November 2012"
-          },
-          "birthname": {
+          "birth_name": {
             "text": "Hubertus Petrus Maria Knapen"
           },
           "birth_date": {
@@ -300,11 +256,8 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Dutch"
-          },
           "party": {
-            "text": "Christian Democratic Appeal (since 1997)",
+            "text": "Christian Democratic Appeal",
             "links": [
               {
                 "type": "internal",
@@ -312,93 +265,12 @@
               }
             ]
           },
-          "alma_mater": {
-            "text": "Radboud University Nijmegen (Bachelor of Arts, Master of Arts, Doctor of Philosophy)",
+          "education": {
+            "text": "Radboud University Nijmegen (BA, MA, PhD)",
             "links": [
               {
                 "type": "internal",
                 "page": "Radboud University Nijmegen"
-              },
-              {
-                "type": "internal",
-                "page": "Bachelor of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Master of Arts"
-              },
-              {
-                "type": "internal",
-                "page": "Doctor of Philosophy"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician · Civil servant · Political scientist · Historian · Researcher · Businessman · Corporate director · Nonprofit director · Journalist · Editor · Author · Columnist · Political pundit · Professor",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Politician"
-              },
-              {
-                "text": "Civil servant",
-                "type": "internal",
-                "page": "Civil service"
-              },
-              {
-                "text": "Political scientist",
-                "type": "internal",
-                "page": "Political science"
-              },
-              {
-                "type": "internal",
-                "page": "Historian"
-              },
-              {
-                "text": "Researcher",
-                "type": "internal",
-                "page": "Research"
-              },
-              {
-                "text": "Businessman",
-                "type": "internal",
-                "page": "Businessperson"
-              },
-              {
-                "text": "Corporate director",
-                "type": "internal",
-                "page": "Board of directors"
-              },
-              {
-                "text": "Nonprofit director",
-                "type": "internal",
-                "page": "Board of directors"
-              },
-              {
-                "type": "internal",
-                "page": "Journalist"
-              },
-              {
-                "text": "Editor",
-                "type": "internal",
-                "page": "Editing"
-              },
-              {
-                "type": "internal",
-                "page": "Author"
-              },
-              {
-                "type": "internal",
-                "page": "Columnist"
-              },
-              {
-                "text": "Political pundit",
-                "type": "internal",
-                "page": "Pundit"
-              },
-              {
-                "type": "internal",
-                "page": "Professor"
               }
             ]
           }
