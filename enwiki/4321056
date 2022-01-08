@@ -302,25 +302,11 @@
           "template": "use dmy dates"
         },
         {
-          "country": "AUS",
-          "list": [
-            "AC"
-          ],
-          "template": "post-nominals"
-        },
-        {
           "year": "1967",
           "month": "2",
           "day": "14",
           "df": "y",
           "template": "birth date and age"
-        },
-        {
-          "country": "AUS",
-          "list": [
-            "AC"
-          ],
-          "template": "post-nominals"
         },
         {
           "transcription": "ˈmɑr(ə)k ˈrʏtə",
@@ -330,6 +316,16 @@
       ],
       "infoboxes": [
         {
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Mark Rutte"
           },
