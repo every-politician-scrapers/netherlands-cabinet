@@ -7,6 +7,7 @@
     "21st-century Dutch politicians",
     "21st-century Dutch women politicians",
     "Dutch people of Kurdish descent",
+    "Dutch people of Turkish descent",
     "Women government ministers of the Netherlands",
     "Members of the House of Representatives (Netherlands)",
     "Municipal councillors of Amsterdam",
@@ -102,16 +103,6 @@
       ],
       "infoboxes": [
         {
-          "honorific-prefix": {
-            "text": "Her Excellency",
-            "links": [
-              {
-                "text": "Her Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
           "name": {
             "text": "Dilan Yeşilgöz-Zegerius"
           },
