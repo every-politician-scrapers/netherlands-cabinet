@@ -1,28 +1,29 @@
 item,itemLabel,position,positionLabel,start,psid
-Q1397858,Barbara Visser,Q26197286,Minister of Infrastructure and Environment,2021-08-31,Q1397858-B495BE8C-C0AE-4F74-A1DF-1DEADEB26634
-Q14520235,Wopke Hoekstra,Q20677341,Minister of Finance of the Netherlands,2017-10-26,Q14520235-df00ab89-49ba-051a-1e72-768124279323
-Q2125339,Raymond Knops,Q106979065,Dutch State Secretary for the Interior and Kingdom Relations,2020-04-14,Q2125339-b58d1e44-451d-596f-7547-a10c18c93057
-Q2195581,Ferdinand Grapperhaus,Q20746056,Minister of Justice and Security,2017-10-26,Q2195581-86d7a1d4-8f79-4383-a0c0-d6eb45d31f66
-Q2330840,Paul Blokhuis,Q107751212,"Dutch State Secretary for Health, Welfare and Sport",2017-10-26,Q2330840-690e924f-458f-1733-027b-1999db5293e6
-Q2481353,Steven Van Weyenberg,Q106531662,State Secretary for Infrastructure and Water Management,2021-08-10,Q2481353-CC137F98-EC09-433B-B140-3AC00DCA0EB8
-Q2595414,Wouter Koolmees,Q27517113,Minister of Social Affairs,2017-10-26,Q2595414-14f72d53-4b57-ee95-2c48-41c9caec7cb5
-Q2609978,Ankie Broekers-Knol,Q106979001,Dutch State Secretary for Justice and Security,2019-06-11,Q2609978-fce4f4a6-4d5f-455b-b715-1a153a292cb2
+Q110316953,Conny Helder,Q42328399,Minister for Medical Care,2022-01-10,Q110316953-CAC8D8FF-C4BB-4E2B-8FAE-E66F475E3D61
+Q14520235,Wopke Hoekstra,Q20007045,Minister of Foreign Affairs,2022-01-10,Q14520235-CEA4AB63-89CE-4C11-BA23-4B4529743D8B
+Q14520235,Wopke Hoekstra,Q2430481,Deputy Prime Minister of the Netherlands,2022-01-10,Q14520235-9EDE75CC-8647-4FCD-88EB-5F435B9514DE
+Q15077856,Sigrid Kaag,Q20677341,Minister of Finance of the Netherlands,2021-01-10,Q15077856-5ad4a4d0-4a4f-8dc8-495e-3c8ff26e5c24
+Q15077856,Sigrid Kaag,Q2430481,Deputy Prime Minister of the Netherlands,2022-01-10,Q15077856-BF6085A4-11FE-455F-BD81-E3B7C1EB21DB
+Q2257536,Mark Harbers,Q26197286,Minister of Infrastructure and Environment,2022-01-10,Q2257536-4a43c153-42e2-f26c-1f46-fe09c1b79fc3
+Q2469097,Karien van Gennip,Q27517113,Minister of Social Affairs,2022-01-10,Q2469097-52805702-4003-38ac-411c-bc615044f9ec
+Q2625041,Carola Schouten,Q110503464,Minister for Poverty Policy,2022-01-10,Q2625041-AB084E91-ACD6-4F63-B9E3-852619291870
 Q2625041,Carola Schouten,Q2430481,Deputy Prime Minister of the Netherlands,2017-10-26,Q2625041-c316cd02-4621-1b82-864e-ef9a4a8f87f2
-Q2625041,Carola Schouten,Q61188918,Minister of Agriculture,2017-10-26,Q2625041-48e3a1bf-46d8-25e1-b913-0f5dc99e3499
-Q2649226,Hugo de Jonge,Q15726205,"Minister of Public Health, Welfare and Sport",2017-10-26,Q2649226-6cfff848-4515-8a9a-d521-9aa92a961587
-Q2649226,Hugo de Jonge,Q2430481,Deputy Prime Minister of the Netherlands,2017-10-26,Q2649226-599539E3-0732-47C3-B82E-919A7E731557
-Q2776715,Kajsa Ollongren,Q15729702,Minister of the Interior and Kingdom Relations,2020-04-14,Q2776715-afe3f5ad-4e33-bf0c-56ef-01e2935595f4
-Q2776715,Kajsa Ollongren,Q2430481,Deputy Prime Minister of the Netherlands,2020-05-14,Q2776715-c4261bc4-4954-121f-a344-181e1ab20d67
-Q27863937,Tom de Bruijn,Q2572883,Minister for Foreign Trade and Development Cooperation,2021-08-10,Q27863937-103A5FBD-9036-423A-83EE-18D9F20DEAA5
-Q2858481,Stef Blok,Q26197292,Minister of Economic Affairs and Climate Policy,2021-05-25,Q2858481-ae0786a8-49e1-fd10-c44a-d27b27c4f6db
-Q28653560,Dennis Wiersma,Q105711711,Dutch State Secretary for Social Affairs and Employment,2021-08-10,Q28653560-D639071E-5D67-407D-80E1-7E2F63DFDD50
-Q28861002,Dilan Yeşilgöz-Zegerius,Q106979005,Dutch State Secretary for Economic Affairs and Climate Policy,2021-05-25,Q28861002-f873e902-43b8-b15d-97c8-958c8f528180
+Q2649226,Hugo de Jonge,Q106628814,"Minister of Housing, Spatial Planning and the Environment",2022-01-10,Q2649226-5F40B7AF-EE49-4B5E-A559-31E5B54AAC61
+Q2776715,Kajsa Ollongren,Q20740176,Minister of Defence,2022-01-10,Q2776715-6c9f5a82-4b0c-678b-e3d7-faf3f89ce60e
+Q28653560,Dennis Wiersma,Q42328366,Minister for Primary and Secondary Education and Media,2022-01-10,Q28653560-FF0B17DE-0A35-4AD4-B322-53A109CC71D9
+Q28857931,Vivianne Heijnen,Q106531662,State Secretary for Infrastructure and Water Management,2022-01-10,Q28857931-C3B199D8-AA97-4FC3-ACD7-EDB60950B0FE
+Q28860866,Rob Jetten,Q110497984,Minister for Climate and Energy,2022-01-10,Q28860866-12F7D337-6D4F-4CDE-9728-D990B83F5480
+Q28861002,Dilan Yeşilgöz-Zegerius,Q20746056,Minister of Justice and Security,2022-01-10,Q28861002-4e130e88-4293-6f89-4885-2f5f56854abb
 Q2916448,Alexandra van Huffelen,Q105752943,Secretary of finance of The Netherlands,2020-01-29,Q2916448-62d7b687-43aa-d3dd-09dd-da82fda0f326
-Q347781,Ben Knapen,Q20007045,Minister of Foreign Affairs,2021-09-24,Q347781-f9f5db23-42c9-1613-4055-e0e51cfe2a6a
-Q501714,Sander Dekker,Q42328404,Minister for Legal Protection,2017-10-26,Q501714-865bb914-4992-3ca7-2fe4-b48a670ce6a2
-Q510689,Ingrid van Engelshoven,Q15729678,"Minister of Education, Culture and Science",2017-10-26,Q510689-404C7648-8C96-40C0-800C-8F89A2CC8BCE
-Q658258,Arie Slob,Q42328366,Minister for Primary and Secondary Education and Media,2017-10-26,Q658258-06d525e5-45cc-0dcb-ecc4-fc6e0c465af0
-Q732818,Henk Kamp,Q20740176,Minister of Defence,2021-09-24,Q732818-F1647AEF-E8B4-4B84-BE0E-0715DAAB0F13
+Q3037436,Franc Weerwind,Q42328404,Minister for Legal Protection,2022-01-10,Q3037436-265D4466-EA4E-488C-B383-76A81C411510
+Q39447567,Ernst J Kuipers,Q15726205,"Minister of Public Health, Welfare and Sport",2022-01-10,Q39447567-5038726b-4a07-90d2-e4b4-170a788b121f
+Q44082843,Christianne van der Wal,Q110497988,Minister for Nature and Nitrogen,2022-01-10,Q44082843-A65E7FC5-E6DB-4921-B83E-DF8CA48A83E9
+Q5165280,Hanke Bruins Slot,Q15729702,Minister of the Interior and Kingdom Relations,2022-01-10,Q5165280-5916db99-49af-7328-0fb8-be69c13b0819
+Q64616136,Liesje Schreinemacher,Q2572883,Minister for Foreign Trade and Development Cooperation,2022-01-10,Q64616136-9b157772-45fe-4c55-4301-10f11ad70746
+Q64711678,Micky Adriaansens,Q26197292,Minister of Economic Affairs and Climate Policy,2022-01-10,Q64711678-8e5edffa-4386-e515-f4ae-21f1a95c201d
+Q710978,Robbert Dijkgraaf,Q15729678,"Minister of Education, Culture and Science",2022-01-10,Q710978-792ae303-4017-20c6-23e1-add26bb8f040
+Q71788527,Henk Staghouwer,Q61188918,Minister of Agriculture,2022-01-10,Q71788527-807962ae-4e93-394c-8f38-3c1f6b2889eb
 Q83779218,Hans Vijlbrief,Q105752943,Secretary of finance of The Netherlands,2020-01-29,Q83779218-fd53dff5-4be6-b9d0-4629-99022f5ad83b
+Q85927438,Christophe van der Maat,Q28539191,Dutch Secretary of State for Defense,2022-01-10,Q85927438-3E077F95-2F0D-4DD6-B71A-DCF6BA943197
 Q57792,Mark Rutte,Q27517058,Minister of General Affairs,2010-10-14,Q57792-573a4ae2-497f-726e-d831-7a661e519dc3
 Q57792,Mark Rutte,Q3058109,Prime Minister of the Netherlands,2010-10-14,q57792-e74d64cf-49e7-4dfd-7a2a-26872e1f9e91
