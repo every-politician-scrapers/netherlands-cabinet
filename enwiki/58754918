@@ -1,0 +1,248 @@
+{
+  "title": "Rob Jetten",
+  "pageID": 58754918,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "21st-century Dutch politicians",
+    "Democrats 66 politicians",
+    "Dutch people of Indonesian descent",
+    "Dutch political consultants",
+    "Dutch speechwriters",
+    "LGBT members of the Parliament of the Netherlands",
+    "Members of the House of Representatives (Netherlands)",
+    "Municipal councillors of Nijmegen",
+    "People from Veghel",
+    "Radboud University Nijmegen alumni",
+    "Gay politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rob Arnoldus Adrianus Jetten (born 25 March 1987) is a Dutch politician of Democrats 66 (D66).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democrats 66"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rob Arnoldus Adrianus Jetten"
+                ]
+              }
+            },
+            {
+              "text": "He served as the party's parliamentary leader in the House of Representatives.",
+              "links": [
+                {
+                  "text": "parliamentary leader",
+                  "type": "internal",
+                  "page": "parliamentary leader"
+                },
+                {
+                  "text": "House of Representatives",
+                  "type": "internal",
+                  "page": "House of Representatives (Netherlands)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1987",
+          "month": "3",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "transcription": "rɔp ɑrˈnɔldʏs aːdriˈaːnʏs ˈjɛtə(n)",
+          "template": "ipa"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rob Jetten"
+          },
+          "image": {
+            "text": "Rob Jetten D66 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Jetten in 2019"
+          },
+          "office": {
+            "text": "Minister without Portfolio in the Ministry of Economic Affairs and Climate Policy",
+            "links": [
+              {
+                "text": "Minister without Portfolio in the Ministry of Economic Affairs and Climate Policy",
+                "type": "internal",
+                "page": "Ministry of Economic Affairs and Climate Policy"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "office1": {
+            "text": "Leader of the Democrats 66 in the House of Representatives",
+            "links": [
+              {
+                "text": "Leader",
+                "type": "internal",
+                "page": "Parliamentary leader"
+              },
+              {
+                "type": "internal",
+                "page": "Democrats 66"
+              },
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Netherlands)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "25 May 2021"
+          },
+          "term_end1": {
+            "text": "28 September 2021"
+          },
+          "predecessor1": {
+            "text": "Sigrid Kaag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigrid Kaag"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Sigrid Kaag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigrid Kaag"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "9 October 2018"
+          },
+          "term_end2": {
+            "text": "18 March 2021"
+          },
+          "predecessor2": {
+            "text": "Alexander Pechtold",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Pechtold"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sigrid Kaag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigrid Kaag"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Member of the House of Representatives",
+            "links": [
+              {
+                "text": "Member",
+                "type": "internal",
+                "page": "Member of parliament"
+              },
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Netherlands)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "23 March 2017"
+          },
+          "birthname": {
+            "text": "Rob Arnoldus Adrianus Jetten"
+          },
+          "birth_date": {
+            "text": "March 25, 1987"
+          },
+          "birth_place": {
+            "text": "Veghel, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Veghel"
+              },
+              {
+                "type": "internal",
+                "page": "Netherlands"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "Democrats 66",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democrats 66"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Ubbergen, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ubbergen"
+              },
+              {
+                "type": "internal",
+                "page": "Netherlands"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ]
+    }
+  ]
+}
