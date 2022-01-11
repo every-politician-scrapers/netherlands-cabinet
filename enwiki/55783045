@@ -94,17 +94,14 @@
             "text": "Wopke Hoekstra 2019 (cropped).jpg"
           },
           "office": {
-            "text": "Minister of Foreign Affairs",
+            "text": "Second Deputy Prime Minister of the Netherlands",
             "links": [
               {
-                "text": "Minister of Foreign Affairs",
+                "text": "Second Deputy Prime Minister of the Netherlands",
                 "type": "internal",
-                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+                "page": "Deputy Prime Minister of the Netherlands"
               }
             ]
-          },
-          "status": {
-            "text": "Designate"
           },
           "primeminister": {
             "text": "Mark Rutte",
@@ -118,25 +115,47 @@
           "term_start": {
             "text": "10 January 2022"
           },
-          "succeeding": {
-            "text": "Ben Knapen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ben Knapen"
-              }
-            ]
-          },
           "predecessor": {
-            "text": "Ben Knapen",
+            "text": "Kajsa Ollongren",
             "links": [
               {
                 "type": "internal",
-                "page": "Ben Knapen"
+                "page": "Kajsa Ollongren"
               }
             ]
           },
           "office1": {
+            "text": "Minister of Foreign Affairs",
+            "links": [
+              {
+                "text": "Minister of Foreign Affairs",
+                "type": "internal",
+                "page": "List of Ministers of Foreign Affairs of the Netherlands"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 January 2022"
+          },
+          "predecessor1": {
+            "text": "Ben Knapen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Knapen"
+              }
+            ]
+          },
+          "office2": {
             "text": "Leader of the Christian Democratic Appeal",
             "links": [
               {
@@ -145,10 +164,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "11 December 2020"
           },
-          "predecessor1": {
+          "predecessor2": {
             "text": "Hugo de Jonge",
             "links": [
               {
@@ -157,7 +176,7 @@
               }
             ]
           },
-          "office2": {
+          "office3": {
             "text": "Minister of Finance",
             "links": [
               {
@@ -167,7 +186,7 @@
               }
             ]
           },
-          "primeminister2": {
+          "primeminister3": {
             "text": "Mark Rutte",
             "links": [
               {
@@ -176,10 +195,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "26 October 2017"
           },
-          "predecessor2": {
+          "term_end3": {
+            "text": "10 January 2022"
+          },
+          "predecessor3": {
             "text": "Jeroen Dijsselbloem",
             "links": [
               {
@@ -188,8 +210,8 @@
               }
             ]
           },
-          "successor2": {
-            "text": "Sigrid Kaag (Designate)",
+          "successor3": {
+            "text": "Sigrid Kaag",
             "links": [
               {
                 "type": "internal",
@@ -197,7 +219,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Senator of the Netherlands",
             "links": [
               {
@@ -207,13 +229,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "7 June 2011"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "26 October 2017"
           },
-          "office4": {
+          "office5": {
             "text": "Member of the House of Representatives",
             "links": [
               {
@@ -223,7 +245,7 @@
               }
             ]
           },
-          "term_start4": {
+          "term_start5": {
             "text": "31 March 2021"
           },
           "birth_name": {

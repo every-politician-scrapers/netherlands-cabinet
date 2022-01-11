@@ -97,9 +97,10 @@
             "text": "Schouten in 2017"
           },
           "office": {
-            "text": "Deputy Prime Minister of the Netherlands",
+            "text": "Third Deputy Prime Minister of the Netherlands",
             "links": [
               {
+                "text": "Third Deputy Prime Minister of the Netherlands",
                 "type": "internal",
                 "page": "Deputy Prime Minister of the Netherlands"
               }
@@ -107,19 +108,6 @@
           },
           "term_start": {
             "text": "26 October 2017"
-          },
-          "alongside": {
-            "text": "Hugo de Jonge and Kajsa Ollongren Wouter Koolmees (2019–2020)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hugo de Jonge"
-              },
-              {
-                "type": "internal",
-                "page": "Kajsa Ollongren"
-              }
-            ]
           },
           "primeminister": {
             "text": "Mark Rutte",
@@ -131,7 +119,7 @@
             ]
           },
           "predecessor": {
-            "text": "Lodewijk Asscher",
+            "text": "Lodewijk Asscher (Deputy PM)",
             "links": [
               {
                 "type": "internal",
@@ -140,17 +128,17 @@
             ]
           },
           "office1": {
-            "text": "Minister of Agriculture, Nature and Food Quality",
+            "text": "Minister for Poverty Policy, Participation and Pensions",
             "links": [
               {
-                "text": "Minister of Agriculture, Nature and Food Quality",
+                "text": "Minister for Poverty Policy, Participation and Pensions",
                 "type": "internal",
-                "page": "List of Ministers of Agriculture of the Netherlands"
+                "page": "List of Ministers of Social Affairs of the Netherlands"
               }
             ]
           },
           "term_start1": {
-            "text": "26 October 2017"
+            "text": "10 January 2022"
           },
           "primeminister1": {
             "text": "Mark Rutte",
@@ -162,6 +150,40 @@
             ]
           },
           "predecessor1": {
+            "text": "Dennis Wiersma",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dennis Wiersma"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Agriculture, Nature and Food Quality",
+            "links": [
+              {
+                "text": "Minister of Agriculture, Nature and Food Quality",
+                "type": "internal",
+                "page": "List of Ministers of Agriculture of the Netherlands"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "26 October 2017"
+          },
+          "term_end2": {
+            "text": "10 January 2022"
+          },
+          "primeminister2": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor2": {
             "text": "Henk Kamp (as Minister of Economic Affairs)",
             "links": [
               {
@@ -170,7 +192,16 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Henk Staghouwer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Henk Staghouwer"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the House of Representatives",
             "links": [
               {
@@ -185,10 +216,10 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "31 March 2021"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Stieneke van der Graaf",
             "links": [
               {
@@ -197,13 +228,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "18 May 2011"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "26 October 2017"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "André Rouvoet",
             "links": [
               {
@@ -212,7 +243,7 @@
               }
             ]
           },
-          "successor3": {
+          "successor4": {
             "text": "Stieneke van der Graaf"
           },
           "birthname": {

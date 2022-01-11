@@ -82,17 +82,17 @@
             "text": "Wiersma in 2013"
           },
           "office": {
-            "text": "State Secretary for Social Affairs and Employment",
+            "text": "Minister without Portfolio in the Ministry of Education, Culture, and Science",
             "links": [
               {
-                "text": "State Secretary for Social Affairs and Employment",
+                "text": "Minister without Portfolio in the Ministry of Education, Culture, and Science",
                 "type": "internal",
-                "page": "List of Ministers of Social Affairs of the Netherlands"
+                "page": "List of Ministers of Education of the Netherlands"
               }
             ]
           },
           "term_start": {
-            "text": "10 August 2021"
+            "text": "10 January 2022"
           },
           "primeminister": {
             "text": "Mark Rutte",
@@ -104,11 +104,54 @@
             ]
           },
           "predecessor": {
+            "text": "Arie Slob",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arie Slob"
+              }
+            ]
+          },
+          "office1": {
+            "text": "State Secretary for Social Affairs and Employment",
+            "links": [
+              {
+                "text": "State Secretary for Social Affairs and Employment",
+                "type": "internal",
+                "page": "List of Ministers of Social Affairs of the Netherlands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "10 August 2021"
+          },
+          "term_end1": {
+            "text": "10 January 2022"
+          },
+          "primeminister1": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor1": {
             "text": "Bas van 't Wout",
             "links": [
               {
                 "type": "internal",
                 "page": "Bas van 't  Wout"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Gunay Uslu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gunay Uslu"
               }
             ]
           },

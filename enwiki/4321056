@@ -360,7 +360,7 @@
             ]
           },
           "deputy": {
-            "text": "Maxime Verhagen\nLodewijk Asscher\nHugo de Jonge\nKajsa Ollongren\nCarola Schouten",
+            "text": "Maxime Verhagen\nLodewijk Asscher\nHugo de Jonge\nKajsa Ollongren\nCarola Schouten\nSigrid Kaag\nWopke Hoekstra",
             "links": [
               {
                 "type": "internal",
@@ -381,6 +381,14 @@
               {
                 "type": "internal",
                 "page": "Carola Schouten"
+              },
+              {
+                "type": "internal",
+                "page": "Sigrid Kaag"
+              },
+              {
+                "type": "internal",
+                "page": "Wopke Hoekstra"
               }
             ]
           },
@@ -524,6 +532,9 @@
           },
           "term_start4": {
             "text": "31 March 2021"
+          },
+          "term_end4": {
+            "text": "10 January 2022"
           },
           "term_start5": {
             "text": "23 March 2017"

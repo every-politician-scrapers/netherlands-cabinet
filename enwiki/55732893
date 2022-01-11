@@ -133,16 +133,17 @@
             "text": "De Jonge in 2019"
           },
           "office": {
-            "text": "Deputy Prime Minister of the Netherlands",
+            "text": "Minister without Portfolio in the Ministry of the Interior and Kingdom Relations",
             "links": [
               {
+                "text": "Minister without Portfolio in the Ministry of the Interior and Kingdom Relations",
                 "type": "internal",
-                "page": "Deputy Prime Minister of the Netherlands"
+                "page": "Ministry of the Interior and Kingdom Relations"
               }
             ]
           },
           "term_start": {
-            "text": "26 October 2017"
+            "text": "10 January 2022"
           },
           "primeminister": {
             "text": "Mark Rutte",
@@ -153,7 +154,31 @@
               }
             ]
           },
-          "alongside": {
+          "office1": {
+            "text": "Deputy Prime Minister of the Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deputy Prime Minister of the Netherlands"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "26 October 2017"
+          },
+          "term_end1": {
+            "text": "10 January 2022"
+          },
+          "primeminister1": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "alongside1": {
             "text": "Kajsa Ollongren Carola Schouten Wouter Koolmees (2019–2020)",
             "links": [
               {
@@ -166,7 +191,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Lodewijk Asscher",
             "links": [
               {
@@ -175,7 +200,16 @@
               }
             ]
           },
-          "office1": {
+          "successor1": {
+            "text": "Sigrid Kaag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sigrid Kaag"
+              }
+            ]
+          },
+          "office2": {
             "text": "Minister of Health, Welfare and Sport",
             "links": [
               {
@@ -185,10 +219,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start2": {
             "text": "26 October 2017"
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Mark Rutte",
             "links": [
               {
@@ -197,7 +231,10 @@
               }
             ]
           },
-          "predecessor1": {
+          "term_end2": {
+            "text": "10 January 2022"
+          },
+          "predecessor2": {
             "text": "Edith Schippers",
             "links": [
               {
@@ -206,7 +243,10 @@
               }
             ]
           },
-          "office2": {
+          "successor2": {
+            "text": "Ernst Kuipers"
+          },
+          "office3": {
             "text": "Leader of the Christian Democratic Appeal",
             "links": [
               {
@@ -215,13 +255,13 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start3": {
             "text": "15 July 2020"
           },
-          "term_end2": {
+          "term_end3": {
             "text": "10 December 2020"
           },
-          "predecessor2": {
+          "predecessor3": {
             "text": "Sybrand van Haersma Buma",
             "links": [
               {
@@ -230,7 +270,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Wopke Hoekstra",
             "links": [
               {

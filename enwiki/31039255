@@ -1,21 +1,23 @@
 {
-  "title": "Dilan Yeşilgöz-Zegerius",
-  "pageID": 63015531,
+  "title": "Mark Harbers",
+  "pageID": 31039255,
   "categories": [
-    "1977 births",
+    "1969 births",
     "Living people",
-    "21st-century Dutch women politicians",
-    "Dutch people of Kurdish descent",
-    "Dutch people of Turkish descent",
-    "Women government ministers of the Netherlands",
+    "21st-century Dutch politicians",
+    "Aldermen of Rotterdam",
+    "Dutch political consultants",
+    "Dutch speechwriters",
+    "Gay politicians",
+    "LGBT businesspeople from the Netherlands",
+    "LGBT cabinet members of the Netherlands",
+    "LGBT members of the Parliament of the Netherlands",
     "Members of the House of Representatives (Netherlands)",
-    "Municipal councillors of Amsterdam",
-    "People from Ankara",
-    "People from Amsterdam",
+    "Municipal councillors of Rotterdam",
+    "People from Ede, Netherlands",
     "People's Party for Freedom and Democracy politicians",
-    "Turkish emigrants to the Netherlands",
-    "State Secretaries for Economic Affairs of the Netherlands",
-    "Ministers of Justice of the Netherlands"
+    "State Secretaries for Justice of the Netherlands",
+    "Vice Chairmen of the People's Party for Freedom and Democracy"
   ],
   "sections": [
     {
@@ -25,40 +27,35 @@
         {
           "sentences": [
             {
-              "text": "Dilan Yeşilgöz-Zegerius (born 18 June 1977) is a Dutch politician who has served as Minister of Justice and Security in the Fourth Rutte cabinet since 10 January 2022.",
+              "text": "Markus Gerardus Jozef \"Mark\" Harbers (born 19 April 1969) is a Dutch politician who served as State Secretary for Justice and Security in the Third Rutte cabinet from 26 October 2017 until 21 May 2019.",
               "links": [
                 {
-                  "text": "Minister of Justice and Security",
+                  "text": "State Secretary",
                   "type": "internal",
-                  "page": "List of Ministers of Justice of the Netherlands"
+                  "page": "Secretary of state"
+                },
+                {
+                  "text": "Justice and Security",
+                  "type": "internal",
+                  "page": "Ministry of Justice and Security"
                 },
                 {
                   "type": "internal",
-                  "page": "Fourth Rutte cabinet"
+                  "page": "Third Rutte cabinet"
                 }
               ],
               "formatting": {
                 "bold": [
-                  "Dilan Yeşilgöz-Zegerius"
+                  "Markus Gerardus Jozef \"Mark\" Harbers"
                 ]
               }
             },
             {
-              "text": "A member of the People's Party for Freedom and Democracy (VVD), she previously served as a member of the House of Representatives from 2017 to 2021 and State Secretary for Economic Affairs and Climate Policy from 2021 until 2022.",
+              "text": "He is a member of the People's Party for Freedom and Democracy (VVD).",
               "links": [
                 {
                   "type": "internal",
                   "page": "People's Party for Freedom and Democracy"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Netherlands)"
-                },
-                {
-                  "text": "State Secretary for Economic Affairs and Climate Policy",
-                  "type": "internal",
-                  "page": "List of Ministers of Economic Affairs of the Netherlands"
                 }
               ]
             }
@@ -67,13 +64,17 @@
       ],
       "templates": [
         {
+          "date": "May 2019",
+          "template": "no footnotes"
+        },
+        {
           "description": "Dutch politician",
           "template": "short description"
         },
         {
-          "year": "1977",
-          "month": "6",
-          "day": "18",
+          "year": "1969",
+          "month": "4",
+          "day": "19",
           "df": "y",
           "template": "birth date and age"
         }
@@ -81,21 +82,21 @@
       "infoboxes": [
         {
           "name": {
-            "text": "Dilan Yeşilgöz-Zegerius"
+            "text": "Mark Harbers"
           },
           "image": {
-            "text": "Yesilgoz2018.jpg"
+            "text": "Mark Harbers 2020.jpg"
           },
           "caption": {
-            "text": "Yeşilgöz-Zegerius in 2018"
+            "text": "Harbers in 2020"
           },
           "office": {
-            "text": "Minister of Justice and Security",
+            "text": "Minister of Infrastructure and Water Management",
             "links": [
               {
-                "text": "Minister of Justice and Security",
+                "text": "Minister of Infrastructure and Water Management",
                 "type": "internal",
-                "page": "List of Ministers of Justice of the Netherlands"
+                "page": "Ministry of Infrastructure and Water Management"
               }
             ]
           },
@@ -112,29 +113,34 @@
             ]
           },
           "predecessor": {
-            "text": "Ferdinand Grapperhaus",
+            "text": "Barbara Visser",
             "links": [
               {
                 "type": "internal",
-                "page": "Ferdinand Grapperhaus"
+                "page": "Barbara Visser"
               }
             ]
           },
           "office1": {
-            "text": "State Secretary for Economic Affairs and Climate Policy",
+            "text": "State Secretary for Justice and Security",
             "links": [
               {
-                "text": "State Secretary for Economic Affairs and Climate Policy",
+                "text": "State Secretary",
                 "type": "internal",
-                "page": "List of Ministers of Economic Affairs of the Netherlands"
+                "page": "Secretary of state"
+              },
+              {
+                "text": "Justice and Security",
+                "type": "internal",
+                "page": "Ministry of Justice and Security"
               }
             ]
           },
           "term_start1": {
-            "text": "25 May 2021"
+            "text": "26 October 2017"
           },
           "term_end1": {
-            "text": "10 January 2022"
+            "text": "21 May 2019"
           },
           "primeminister1": {
             "text": "Mark Rutte",
@@ -146,29 +152,20 @@
             ]
           },
           "predecessor1": {
-            "text": "Martijn van Dam (2017)",
+            "text": "Klaas Dijkhoff",
             "links": [
               {
                 "type": "internal",
-                "page": "Martijn van Dam"
-              }
-            ]
-          },
-          "alongside1": {
-            "text": "Mona Keijzer (2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mona Keijzer"
+                "page": "Klaas Dijkhoff"
               }
             ]
           },
           "successor1": {
-            "text": "Hans Vijlbrief",
+            "text": "Ankie Broekers-Knol",
             "links": [
               {
                 "type": "internal",
-                "page": "Hans Vijlbrief"
+                "page": "Ankie Broekers-Knol"
               }
             ]
           },
@@ -188,29 +185,30 @@
             ]
           },
           "term_start2": {
-            "text": "23 March 2017"
+            "text": "11 June 2019"
           },
-          "term_end2": {
-            "text": "3 September 2021"
+          "term_start3": {
+            "text": "1 December 2009"
+          },
+          "term_end3": {
+            "text": "26 October 2017"
           },
           "birth_date": {
-            "text": "June 18, 1977"
+            "text": "April 19, 1969"
           },
           "birth_place": {
-            "text": "Ankara, Turkey",
+            "text": "Ede, Netherlands",
             "links": [
               {
+                "text": "Ede",
                 "type": "internal",
-                "page": "Ankara"
+                "page": "Ede, Netherlands"
               },
               {
                 "type": "internal",
-                "page": "Turkey"
+                "page": "Netherlands"
               }
             ]
-          },
-          "birthname": {
-            "text": "Dilan Yeşilgöz"
           },
           "nationality": {
             "text": "Dutch"
@@ -225,16 +223,16 @@
             ]
           },
           "residence": {
-            "text": "Amsterdam",
+            "text": "Rotterdam",
             "links": [
               {
                 "type": "internal",
-                "page": "Amsterdam"
+                "page": "Rotterdam"
               }
             ]
           },
           "occupation": {
-            "text": "Politician"
+            "text": "Communication employee, politician"
           }
         }
       ]

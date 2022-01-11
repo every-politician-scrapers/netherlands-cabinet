@@ -39,7 +39,7 @@
         {
           "sentences": [
             {
-              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician of the Democrats 66 (D66) party, who has been serving as second Deputy Prime Minister of the Netherlands since 14 May 2020 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet since 14 April 2020.",
+              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician of the Democrats 66 (D66) party, who served as second Deputy Prime Minister of the Netherlands from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet from 14 April 2020 to 10 January 2022.",
               "links": [
                 {
                   "text": "Jkvr.",
@@ -71,6 +71,9 @@
                   "Ollongren"
                 ]
               }
+            },
+            {
+              "text": "She is Minister of Defence in the IV Rutte Cabinet since 10 January 2022."
             }
           ]
         }
@@ -136,6 +139,37 @@
             "text": "Ollongren in 2019"
           },
           "office": {
+            "text": "Minister of Defence",
+            "links": [
+              {
+                "text": "Minister of Defence",
+                "type": "internal",
+                "page": "Ministry of Defence (Netherlands)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Henk Kamp",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Henk Kamp"
+              }
+            ]
+          },
+          "office1": {
             "text": "Second Deputy Prime Minister of the Netherlands",
             "links": [
               {
@@ -145,10 +179,13 @@
               }
             ]
           },
-          "term_start": {
+          "term_start1": {
             "text": "14 May 2020"
           },
-          "alongside": {
+          "term_end1": {
+            "text": "10 January 2022"
+          },
+          "alongside1": {
             "text": "Hugo de Jonge and Carola Schouten",
             "links": [
               {
@@ -161,7 +198,7 @@
               }
             ]
           },
-          "primeminister": {
+          "primeminister1": {
             "text": "Mark Rutte",
             "links": [
               {
@@ -170,7 +207,7 @@
               }
             ]
           },
-          "predecessor": {
+          "predecessor1": {
             "text": "Wouter Koolmees",
             "links": [
               {
@@ -179,12 +216,12 @@
               }
             ]
           },
-          "successor": {
-            "text": "Incumbent",
+          "successor1": {
+            "text": "Wopke Hoekstra",
             "links": [
               {
                 "type": "internal",
-                "page": "Incumbent"
+                "page": "Wopke Hoekstra"
               }
             ]
           },
@@ -247,6 +284,9 @@
           "term_start3": {
             "text": "14 April 2020"
           },
+          "term_end3": {
+            "text": "10 January 2022"
+          },
           "primeminister3": {
             "text": "Mark Rutte",
             "links": [
@@ -266,11 +306,11 @@
             ]
           },
           "successor3": {
-            "text": "Incumbent",
+            "text": "Hanke Bruins Slot",
             "links": [
               {
                 "type": "internal",
-                "page": "Incumbent"
+                "page": "Hanke Bruins Slot"
               }
             ]
           },
