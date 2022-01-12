@@ -39,10 +39,10 @@
         {
           "sentences": [
             {
-              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician of the Democrats 66 (D66) party, who served as second Deputy Prime Minister of the Netherlands from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet from 14 April 2020 to 10 January 2022.",
+              "text": "jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician of the Democrats 66 (D66) party, who served as second Deputy Prime Minister of the Netherlands from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet from 14 April 2020 to 10 January 2022.",
               "links": [
                 {
-                  "text": "Jkvr.",
+                  "text": "jkvr.",
                   "type": "internal",
                   "page": "Jonkvrouw"
                 },
@@ -384,7 +384,7 @@
             "text": "Eric van der Burg (ad interim)"
           },
           "birthname": {
-            "text": "Karin Hildur Ollongren"
+            "text": "Jonkvrouw Karin Hildur Ollongren"
           },
           "birth_date": {
             "text": "May 28, 1967"
