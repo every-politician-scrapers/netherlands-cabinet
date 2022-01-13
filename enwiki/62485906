@@ -16,7 +16,22 @@
         {
           "sentences": [
             {
-              "text": "Elisabeth \"Liesje\" Schreinemacher (born 13 May 1983) is a Dutch politician and lawyer who served as a Member of the European Parliament for the People's Party for Freedom and Democracy political party from 2019 until 2021.",
+              "text": "Elisabeth \"Liesje\" Schreinemacher (born 13 May 1983) is a Dutch politician and lawyer who has served as Minister for Foreign Trade and Development Cooperation since 10 January 2022.",
+              "links": [
+                {
+                  "text": "Minister for Foreign Trade and Development Cooperation",
+                  "type": "internal",
+                  "page": "Minister for Foreign Trade and Development Cooperation (Netherlands)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Elisabeth \"Liesje\" Schreinemacher"
+                ]
+              }
+            },
+            {
+              "text": "She previously served as a Member of the European Parliament for the People's Party for Freedom and Democracy political party from 2019 until 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -26,12 +41,7 @@
                   "type": "internal",
                   "page": "People's Party for Freedom and Democracy"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Elisabeth \"Liesje\" Schreinemacher"
-                ]
-              }
+              ]
             }
           ]
         }
@@ -48,13 +58,6 @@
         {
           "date": "December 2019",
           "template": "use dmy dates"
-        },
-        {
-          "size": "100%",
-          "list": [
-            "MEP"
-          ],
-          "template": "post-nominals"
         },
         {
           "year": "1983",
@@ -85,12 +88,12 @@
             "text": "Schreinemacher (2021)"
           },
           "office": {
-            "text": "Minister without Portfolio in the Ministry of Foreign Affairs",
+            "text": "Minister for Foreign Trade and Development Cooperation",
             "links": [
               {
-                "text": "Minister without Portfolio in the Ministry of Foreign Affairs",
+                "text": "Minister for Foreign Trade and Development Cooperation",
                 "type": "internal",
-                "page": "Ministry of Foreign Affairs (Netherlands)"
+                "page": "Minister for Foreign Trade and Development Cooperation (Netherlands)"
               }
             ]
           },
@@ -104,7 +107,7 @@
             ]
           },
           "predecessor": {
-            "text": "Tom de Bruijn (Minister for Foreign Trade and Development Cooperation)",
+            "text": "Tom de Bruijn",
             "links": [
               {
                 "type": "internal",
@@ -129,8 +132,7 @@
             "text": "2 July 2019"
           },
           "term_end1": {
-            "text": "2021",
-            "number": 2021
+            "text": "10 January 2021"
           },
           "parliament1": {
             "text": "European"
