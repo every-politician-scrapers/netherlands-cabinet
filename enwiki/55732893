@@ -28,20 +28,16 @@
         {
           "sentences": [
             {
-              "text": "Hugo Mattheüs de Jonge (born 26 September 1977) is a Dutch politician serving as first Deputy Prime Minister of the Netherlands and Minister of Health, Welfare and Sport since 2017 in the Third Rutte cabinet.",
+              "text": "Hugo Mattheüs de Jonge (born 26 September 1977) is a Dutch politician serving as Minister of Housing and Spatial Planning since 2022 in the Fourth Rutte cabinet.",
               "links": [
                 {
+                  "text": "Minister of Housing and Spatial Planning",
                   "type": "internal",
-                  "page": "Deputy Prime Minister of the Netherlands"
-                },
-                {
-                  "text": "Minister of Health, Welfare and Sport",
-                  "type": "internal",
-                  "page": "Ministry of Health, Welfare and Sport (Netherlands)"
+                  "page": "Ministry of The Ministry of Housing and Spatial Planning (Netherlands)"
                 },
                 {
                   "type": "internal",
-                  "page": "Third Rutte cabinet"
+                  "page": "Fourth Rutte cabinet"
                 }
               ],
               "formatting": {

@@ -32,11 +32,21 @@
         {
           "sentences": [
             {
-              "text": "Wopke Bastiaan Hoekstra (born 30 September 1975) is a Dutch politician who has been serving as Leader of the Christian Democratic Appeal (CDA) since 2020.",
+              "text": "Wopke Bastiaan Hoekstra (born 30 September 1975) is a Dutch politician who has served as Deputy Prime Minister of the Netherlands and Minister of Foreign Affairs since in the fourth Rutte cabinet 10 January 2022.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Leader of the Christian Democratic Appeal"
+                  "page": "Deputy Prime Minister of the Netherlands"
+                },
+                {
+                  "text": "Minister of Foreign Affairs",
+                  "type": "internal",
+                  "page": "List of Ministers of Foreign Affairs of the Netherlands"
+                },
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
                 }
               ],
               "formatting": {
@@ -46,7 +56,16 @@
               }
             },
             {
-              "text": "He has also been Minister of Finance in the third cabinet of Prime Minister Mark Rutte from 2017 to 2022.",
+              "text": "He has also been Leader of the Christian Democratic Appeal (CDA) since 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leader of the Christian Democratic Appeal"
+                }
+              ]
+            },
+            {
+              "text": "Hoekstra previously served as Minister of Finance in the third Rutte cabinet from 2017 to 2022.",
               "links": [
                 {
                   "text": "Minister of Finance",
@@ -54,18 +73,9 @@
                   "page": "List of Ministers of Finance of the Netherlands"
                 },
                 {
-                  "text": "third cabinet",
+                  "text": "third Rutte cabinet",
                   "type": "internal",
                   "page": "Third Rutte cabinet"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of the Netherlands"
-                },
-                {
-                  "type": "internal",
-                  "page": "Mark Rutte"
                 }
               ]
             }
@@ -94,10 +104,9 @@
             "text": "Wopke Hoekstra 2019 (cropped).jpg"
           },
           "office": {
-            "text": "Second Deputy Prime Minister of the Netherlands",
+            "text": "Deputy Prime Minister of the Netherlands",
             "links": [
               {
-                "text": "Second Deputy Prime Minister of the Netherlands",
                 "type": "internal",
                 "page": "Deputy Prime Minister of the Netherlands"
               }
