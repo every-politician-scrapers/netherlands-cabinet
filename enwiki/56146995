@@ -64,6 +64,10 @@
       ],
       "templates": [
         {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
           "date": "December 2020",
           "template": "use dmy dates"
         },
