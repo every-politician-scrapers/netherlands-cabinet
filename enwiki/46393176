@@ -39,16 +39,12 @@
         {
           "sentences": [
             {
-              "text": "jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician of the Democrats 66 (D66) party, who served as second Deputy Prime Minister of the Netherlands from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations in the Third Rutte cabinet from 14 April 2020 to 10 January 2022.",
+              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren ( or ; ; born 28 May 1967) is a Dutch-Swedish politician who served as second Deputy Prime Minister of the Netherlands from 26 October 2017 to 1 November 2019 and again from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations from 26 October 2017 to 1 November 2019 and again from 14 April 2020 to 10 January 2022 in the Third Rutte cabinet.",
               "links": [
                 {
-                  "text": "jkvr.",
+                  "text": "Jkvr.",
                   "type": "internal",
-                  "page": "Jonkvrouw"
-                },
-                {
-                  "type": "internal",
-                  "page": "Democrats 66"
+                  "page": "Jonkheer"
                 },
                 {
                   "type": "internal",
@@ -73,7 +69,22 @@
               }
             },
             {
-              "text": "She is Minister of Defence in the IV Rutte Cabinet since 10 January 2022."
+              "text": "A member of the Democrats 66 (D66) party, she has served as Minister of Defence since 10 January 2022 in the Fourth Rutte cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democrats 66"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "List of Ministers of Defence of the Netherlands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Fourth Rutte cabinet"
+                }
+              ]
             }
           ]
         }
@@ -381,7 +392,13 @@
             ]
           },
           "successor5": {
-            "text": "Eric van der Burg (ad interim)"
+            "text": "Eric van der Burg (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eric van der Burg"
+              }
+            ]
           },
           "birthname": {
             "text": "Jonkvrouw Karin Hildur Ollongren"
