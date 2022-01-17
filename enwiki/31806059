@@ -27,12 +27,22 @@
         {
           "sentences": [
             {
-              "text": "Cornelia Johanna \"Carola\" Schouten (born 6 October 1977) is a Dutch politician serving as third Deputy Prime Minister of the Netherlands and Minister of Agriculture, Nature and Food Quality in the Third Rutte cabinet since 2017.",
+              "text": "Cornelia Johanna \"Carola\" Schouten (born 6 October 1977) is a Dutch politician serving as third Deputy Prime Minister of the Netherlands and Minister for Poverty Policy, Participation and Pensions in the IV Rutte Cabinet since 10 January 2022.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Deputy Prime Minister of the Netherlands"
-                },
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Cornelia Johanna \"Carola\" Schouten"
+                ]
+              }
+            },
+            {
+              "text": "She has served as Minister of Agriculture, Nature and Food Quality in the Third Rutte cabinet from 2017-2022.",
+              "links": [
                 {
                   "text": "Minister of Agriculture, Nature and Food Quality",
                   "type": "internal",
@@ -42,12 +52,7 @@
                   "type": "internal",
                   "page": "Third Rutte cabinet"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Cornelia Johanna \"Carola\" Schouten"
-                ]
-              }
+              ]
             },
             {
               "text": "She is a member of the Christian Union (CU).",
