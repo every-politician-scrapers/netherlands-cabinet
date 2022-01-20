@@ -4,13 +4,18 @@
   "categories": [
     "1964 births",
     "Living people",
+    "20th-century Dutch civil servants",
+    "21st-century Dutch civil servants",
+    "21st-century Dutch politicians",
     "Democrats 66 politicians",
     "Dutch people of Surinamese descent",
-    "Mayors in Flevoland",
+    "Leiden University alumni",
     "Mayors in North Holland",
+    "Mayors of Almere",
+    "Ministers without portfolio of the Netherlands",
+    "People from Niedorp",
     "People from Velsen",
-    "People from Almere",
-    "21st-century Dutch politicians"
+    "Politicians from Amsterdam"
   ],
   "sections": [
     {
@@ -20,7 +25,7 @@
         {
           "sentences": [
             {
-              "text": "Franciscus Max \"Franc\" Weerwind (born 22 September 1964) is a Dutch politician of the Democrats 66 (D66).",
+              "text": "Franciscus Max \"Franc\" Weerwind (born 22 September 1964) is a Dutch politician of Democrats 66 (D66).",
               "links": [
                 {
                   "text": "Dutch",
@@ -39,12 +44,11 @@
               }
             },
             {
-              "text": "He has been the Mayor of Almere since September 2015.",
+              "text": "He has been minister for legal protection in the Fourth Rutte cabinet since 10 January 2022.",
               "links": [
                 {
-                  "text": "Mayor of Almere",
                   "type": "internal",
-                  "page": "Almere"
+                  "page": "Fourth Rutte cabinet"
                 }
               ]
             }
@@ -132,6 +136,15 @@
               {
                 "type": "internal",
                 "page": "Annemarie Jorritsma"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Ank Bijleveld (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ank Bijleveld"
               }
             ]
           },
