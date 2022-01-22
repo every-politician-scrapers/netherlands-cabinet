@@ -179,7 +179,7 @@
       ],
       "templates": [
         {
-          "description": "King of the Netherlands",
+          "description": "King of the Netherlands since 2013",
           "template": "short description"
         },
         {
@@ -273,7 +273,7 @@
             "text": "Willem-Alexander"
           },
           "image": {
-            "text": "Zijne Majesteit Koning Willem-Alexander met koningsmantel april 2013 (cropped).jpeg"
+            "text": "Zijne Majesteit Koning Willem-Alexander met koningsmantel april 2013 (cropped).jpg"
           },
           "caption": {
             "text": "The King in 2013"
