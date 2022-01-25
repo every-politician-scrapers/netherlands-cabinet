@@ -1,0 +1,233 @@
+{
+  "title": "Eric van der Burg",
+  "pageID": 68406806,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "21st-century Dutch politicians",
+    "Mayors of Amsterdam",
+    "Members of the Senate (Netherlands)",
+    "People from Amsterdam",
+    "People's Party for Freedom and Democracy politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Eric van der Burg (born 9 October 1965) is a Dutch politician.",
+              "formatting": {
+                "bold": [
+                  "Eric van der Burg"
+                ]
+              }
+            },
+            {
+              "text": "A member of the People's Party for Freedom and Democracy (VVD), he was elected to the Senate in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Party for Freedom and Democracy"
+                },
+                {
+                  "text": "Senate",
+                  "type": "internal",
+                  "page": "Senate (Netherlands)"
+                },
+                {
+                  "text": "2019",
+                  "type": "internal",
+                  "page": "2019 Dutch Senate election"
+                }
+              ]
+            },
+            {
+              "text": "Eric van der Burg previously had a lengthy political career in the municipality of Amsterdam which culminated in his brief service as ad interim Mayor of Amsterdam in 2017.",
+              "links": [
+                {
+                  "text": "Mayor of Amsterdam",
+                  "type": "internal",
+                  "page": "List of mayors of Amsterdam"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "ad interim"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "lang": "Dutch",
+          "list": [
+            "Van der Burg",
+            "Burg"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1965",
+          "month": "10",
+          "day": "9",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Eric van der Burg"
+          },
+          "image": {
+            "text": "File:Ericvanderburg.jpg"
+          },
+          "office": {
+            "text": "State Secretary for Justice and Security",
+            "links": [
+              {
+                "text": "State Secretary for Justice and Security",
+                "type": "internal",
+                "page": "List of Ministers of Justice of the Netherlands"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "predecessor": {
+            "text": "Ankie Broekers-Knol",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ankie Broekers-Knol"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Senator of the Netherlands",
+            "links": [
+              {
+                "text": "Senator of the Netherlands",
+                "type": "internal",
+                "page": "Senate (Netherlands)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "11 June 2019"
+          },
+          "term_end1": {
+            "text": "10 January 2022"
+          },
+          "office2": {
+            "text": "Mayor of Amsterdam",
+            "links": [
+              {
+                "text": "Mayor of Amsterdam",
+                "type": "internal",
+                "page": "List of mayors of Amsterdam"
+              }
+            ]
+          },
+          "status2": {
+            "text": "Ad interim",
+            "formatting": {
+              "italic": [
+                "Ad interim"
+              ]
+            }
+          },
+          "term_start2": {
+            "text": "26 October 2017"
+          },
+          "term_end2": {
+            "text": "4 December 2017"
+          },
+          "predecessor2": {
+            "text": "Kajsa Ollongren (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kajsa Ollongren"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jozias van Aartsen (Acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jozias van Aartsen"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "October 9, 1965"
+          },
+          "birth_place": {
+            "text": "Amsterdam, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amsterdam"
+              },
+              {
+                "type": "internal",
+                "page": "Netherlands"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "People's Party for Freedom and Democracy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Party for Freedom and Democracy"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Vrije Universiteit Amsterdam (Law)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vrije Universiteit Amsterdam"
+              }
+            ]
+          },
+          "residence": {
+            "text": "Amsterdam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amsterdam"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

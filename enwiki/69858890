@@ -1,0 +1,241 @@
+{
+  "title": "Ernst Kuipers",
+  "pageID": 69858890,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "20th-century Dutch physicians",
+    "21st-century Dutch physicians",
+    "21st-century Dutch politicians",
+    "Democrats 66 politicians",
+    "Dutch gastroenterologists",
+    "Dutch internists",
+    "Erasmus University Rotterdam faculty",
+    "Ministers of Health of the Netherlands",
+    "People from Meppel",
+    "People from Noordoostpolder",
+    "University of Groningen alumni",
+    "Vanderbilt University faculty",
+    "Vrije Universiteit Amsterdam alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ernst Johan Kuipers (born 14 December 1959) is a Dutch gastroenterologist, professor and politician who has served as Minister of Health, Welfare and Sport in the fourth Rutte cabinet since 10 January 2022.",
+              "links": [
+                {
+                  "text": "Minister of Health, Welfare and Sport",
+                  "type": "internal",
+                  "page": "List of Ministers of Health of the Netherlands"
+                },
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ernst Johan Kuipers"
+                ]
+              }
+            },
+            {
+              "text": "He is a member of the Democrats 66 (D66) party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democrats 66"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch gastroenterologist and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "text": "Jos Aartsen",
+          "lan1": "nl",
+          "template": "ill"
+        },
+        {
+          "year": "1959",
+          "month": "12",
+          "day": "14",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Ernst Kuipers"
+          },
+          "image": {
+            "text": "Ernst Kuipers 2021.jpg"
+          },
+          "caption": {
+            "text": "Kuipers in 2021"
+          },
+          "office": {
+            "text": "Minister of Health, Welfare and Sport",
+            "links": [
+              {
+                "text": "Minister of Health, Welfare and Sport",
+                "type": "internal",
+                "page": "List of Ministers of Health of the Netherlands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Hugo de Jonge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hugo de Jonge"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chief Executive Officer of the Erasmus University Medical Center",
+            "links": [
+              {
+                "text": "Chief Executive Officer",
+                "type": "internal",
+                "page": "Chief executive officer"
+              },
+              {
+                "type": "internal",
+                "page": "Erasmus University Medical Center"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "15 March 2013"
+          },
+          "term_end1": {
+            "text": "January 2022"
+          },
+          "predecessor1": {
+            "text": "Hans Büller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hans Büller"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Stefan Sleijfer (ad interim)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stefan Sleijfer"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "ad interim"
+              ]
+            }
+          },
+          "office2": {
+            "text": "Chairman of the National Acute Care Network"
+          },
+          "term_start2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end2": {
+            "text": "January 2022"
+          },
+          "predecessor2": {
+            "text": "Jos Aartsen"
+          },
+          "birthname": {
+            "text": "Ernst Johan Kuipers"
+          },
+          "birth_date": {
+            "text": "December 14, 1959"
+          },
+          "birth_place": {
+            "text": "Meppel, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Meppel"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "Democrats 66",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democrats 66"
+              }
+            ]
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "alma_mater": {
+            "text": "University of Groningen Vrije Universiteit Amsterdam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Groningen"
+              },
+              {
+                "type": "internal",
+                "page": "Vrije Universiteit Amsterdam"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Physician · politician"
+          }
+        }
+      ]
+    }
+  ]
+}
