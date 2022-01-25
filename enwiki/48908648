@@ -44,8 +44,13 @@
               }
             },
             {
-              "text": "He has been minister for legal protection in the Fourth Rutte cabinet since 10 January 2022.",
+              "text": "He is currently the minister for legal protection in the Fourth Rutte cabinet since 10 January 2022.",
               "links": [
+                {
+                  "text": "minister",
+                  "type": "internal",
+                  "page": "Minister without portfolio"
+                },
                 {
                   "type": "internal",
                   "page": "Fourth Rutte cabinet"

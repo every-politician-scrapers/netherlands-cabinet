@@ -1,0 +1,201 @@
+{
+  "title": "Aukje de Vries",
+  "pageID": 37999797,
+  "categories": [
+    "1964 births",
+    "Living people",
+    "Members of the House of Representatives (Netherlands)",
+    "Members of the Provincial Council of Friesland",
+    "Municipal councillors of Leeuwarden",
+    "People's Party for Freedom and Democracy politicians",
+    "21st-century Dutch politicians",
+    "21st-century Dutch women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": " Aukje de Vries  (born 21 October 1964 in Leeuwarden) is a Dutch politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leeuwarden"
+                },
+                {
+                  "text": "Dutch",
+                  "type": "internal",
+                  "page": "Netherlands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  " Aukje de Vries "
+                ]
+              }
+            },
+            {
+              "text": "As a member of the People's Party for Freedom and Democracy (Volkspartij voor Vrijheid en Democratie) she has been an MP since 8 November 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Party for Freedom and Democracy"
+                },
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "House of Representatives (Netherlands)"
+                }
+              ]
+            },
+            {
+              "text": "She was also member of the provincial parliament of Friesland from 11 March 2011 until November 2012.",
+              "links": [
+                {
+                  "text": "provincial parliament",
+                  "type": "internal",
+                  "page": "Provinciale Staten"
+                },
+                {
+                  "type": "internal",
+                  "page": "Friesland"
+                }
+              ]
+            },
+            {
+              "text": "Previously she was a member of the municipal council of Leeuwarden from 2002 to 2011.",
+              "links": [
+                {
+                  "text": "municipal council",
+                  "type": "internal",
+                  "page": "municipal council (Netherlands)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "de Vries",
+            "Vries"
+          ],
+          "lang": "Dutch",
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1964",
+          "month": "10",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Aukje de Vries"
+          },
+          "image": {
+            "text": "Aukje de Vries 2019.png"
+          },
+          "caption": {
+            "text": "Aukje de Vries, 2019"
+          },
+          "office": {
+            "text": "State of Secretary for Finance",
+            "links": [
+              {
+                "text": "State of Secretary for Finance",
+                "type": "internal",
+                "page": "List of Ministers of Finance of the Netherlands"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Marnix van Rij",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marnix van Rij"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "predecessor": {
+            "text": "Hans Vijlbrief Alexandra van Huffelen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hans Vijlbrief"
+              },
+              {
+                "type": "internal",
+                "page": "Alexandra van Huffelen"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the House of Representatives",
+            "links": [
+              {
+                "text": "House of Representatives",
+                "type": "internal",
+                "page": "House of Representatives (Netherlands)"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "8 November 2012"
+          },
+          "birth_date": {
+            "text": "October 21, 1964"
+          },
+          "birth_place": {
+            "text": "Leeuwarden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leeuwarden"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "People's Party for Freedom and Democracy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Party for Freedom and Democracy"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          }
+        }
+      ]
+    }
+  ]
+}
