@@ -1,6 +1,6 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q110316953,Conny Helder,Conny Helder,female,1958-11-27,11,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q42328399,Minister for Long-term Care and Sport,2022-01-10,Q110316953-CAC8D8FF-C4BB-4E2B-8FAE-E66F475E3D61
-Q110401312,Gunay Uslu,Gunay Uslu,female,,,,,Q110644361,State Secretary for Culture and Media,2022-01-10,Q110401312-862247DB-FA35-42BB-AEDE-D6B54D0EC063
+Q110401312,Gunay Uslu,Gunay Uslu,female,1972-10-25,11,,,Q110644361,State Secretary for Culture and Media,2022-01-10,Q110401312-862247DB-FA35-42BB-AEDE-D6B54D0EC063
 Q14520235,Wopke Hoekstra,Wopke Hoekstra,male,1975-09-30,11,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q2430481,Deputy Prime Minister,2022-01-10,Q14520235-9EDE75CC-8647-4FCD-88EB-5F435B9514DE
 Q14520235,Wopke Hoekstra,Wopke Hoekstra,male,1975-09-30,11,,,Q20007045,Minister of Foreign Affairs,2022-01-10,Q14520235-CEA4AB63-89CE-4C11-BA23-4B4529743D8B
 Q15077856,Sigrid Kaag,Sigrid Kaag,female,1961-11-02,11,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q20677341,Minister of Finance,2021-01-10,Q15077856-5ad4a4d0-4a4f-8dc8-495e-3c8ff26e5c24
@@ -20,7 +20,7 @@ Q28860866,Rob Jetten,Rob Jetten,male,1987-03-25,11,https://www.government.nl/gov
 Q28861002,Dilan Yeṣilgöz,Dilan Yeşilgöz-Zegerius,female,1977-06-18,11,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q20746056,Minister of Justice and Security,2022-01-10,Q28861002-4e130e88-4293-6f89-4885-2f5f56854abb
 Q2916448,Alexandra van Huffelen,Alexandra van Huffelen,female,1968-07-21,11,,,Q106979065,Dutch State Secretary for the Interior and Kingdom Relations,2022-01-10,Q2916448-799b9592-47e9-efe4-f889-9514a222379a
 Q3037436,Franc Weerwind,Franc Weerwind,male,1964-09-22,11,,,Q42328404,Minister for Legal Protection,2022-01-10,Q3037436-265D4466-EA4E-488C-B383-76A81C411510
-Q39447567,Ernst Kuipers,Ernst J Kuipers,male,1959-01-01,9,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q15726205,"Minister of Health, Welfare and Sport",2022-01-10,Q39447567-5038726b-4a07-90d2-e4b4-170a788b121f
+Q39447567,Ernst Kuipers,Ernst Kuipers,male,1959-01-01,9,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q15726205,"Minister of Health, Welfare and Sport",2022-01-10,Q39447567-5038726b-4a07-90d2-e4b4-170a788b121f
 Q44082843,Christianne van der Wal-Zeggelink,Christianne van der Wal,female,1973-11-13,11,https://www.government.nl/government/members-of-cabinet,2022-01-10,Q110497988,Minister for Nature and Nitrogen Policy,2022-01-10,Q44082843-A65E7FC5-E6DB-4921-B83E-DF8CA48A83E9
 Q5165280,Hanke Bruins Slot,Hanke Bruins Slot,female,1977-10-20,11,,,Q15729702,Minister of the Interior and Kingdom Relations,2022-01-10,Q5165280-5916db99-49af-7328-0fb8-be69c13b0819
 Q57792,Mark Rutte,Mark Rutte,male,1967-02-14,11,,,Q27517058,Minister of General Affairs,2010-10-14,Q57792-573a4ae2-497f-726e-d831-7a661e519dc3
