@@ -1,0 +1,207 @@
+{
+  "title": "Vivianne Heijnen",
+  "pageID": 69915219,
+  "categories": [
+    "1982 births",
+    "21st-century Dutch politicians",
+    "21st-century Dutch women politicians",
+    "Aldermen in Limburg (Netherlands)",
+    "Christian Democratic Appeal politicians",
+    "Dutch academic administrators",
+    "Living people",
+    "Maastricht University alumni",
+    "Municipal councillors of Maastricht",
+    "People from Beek",
+    "Women academic administrators",
+    "Dutch lobbyists"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vivianne L.W.A. Heijnen (born 8 October 1982) is a Dutch politician of the Christian Democratic Appeal (CDA) party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Christian Democratic Appeal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vivianne L.W.A. Heijnen"
+                ]
+              }
+            },
+            {
+              "text": "She has been serving as the Minister for the Environment as part of the fourth Rutte cabinet since January 2022.",
+              "links": [
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
+                }
+              ]
+            },
+            {
+              "text": "Heijnen was previously head of the Brussels campus of her alma mater Maastricht University, and she was active in local politics in Maastricht as municipal councilor (2010–18) and alderwoman (2018–22).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brussels"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maastricht University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maastricht"
+                },
+                {
+                  "text": "alderwoman",
+                  "type": "internal",
+                  "page": "wethouder"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "name": "position",
+          "list": [
+            "Nationally, her position is known as State Secretary for Infrastructure and Water Management."
+          ],
+          "template": "efn"
+        },
+        {
+          "year": "1982",
+          "month": "10",
+          "day": "8",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "name": "position",
+          "template": "efn"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vivianne Heijnen"
+          },
+          "office1": {
+            "text": "Minister for the Environment"
+          },
+          "term_start1": {
+            "text": "10 January 2022"
+          },
+          "predecessor1": {
+            "text": "Steven van Weyenberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven van Weyenberg"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Alderwoman in Maastricht",
+            "links": [
+              {
+                "text": "Alderwoman",
+                "type": "internal",
+                "page": "Wethouder"
+              },
+              {
+                "type": "internal",
+                "page": "Maastricht"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 June 2018"
+          },
+          "term_end2": {
+            "text": "9 January 2022"
+          },
+          "successor2": {
+            "text": "Niels Peeters"
+          },
+          "office3": {
+            "text": "Member of the Maastricht municipal council",
+            "links": [
+              {
+                "text": "municipal council",
+                "type": "internal",
+                "page": "municipal council (Netherlands)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 April 2010"
+          },
+          "term_end3": {
+            "text": "18 June 2018"
+          },
+          "successor3": {
+            "text": "Florence van der Heijden"
+          },
+          "birth_name": {
+            "text": "V.L.W.A. Heijnen"
+          },
+          "birth_date": {
+            "text": "October 8, 1982"
+          },
+          "birth_place": {
+            "text": "Spaubeek, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Spaubeek"
+              }
+            ]
+          },
+          "party": {
+            "text": "Christian Democratic Appeal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christian Democratic Appeal"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Maastricht University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maastricht University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician · academic administrator · lobbyist"
+          },
+          "signature": {
+            "text": "Vivianne Heijnen signature.svg"
+          }
+        }
+      ]
+    }
+  ]
+}

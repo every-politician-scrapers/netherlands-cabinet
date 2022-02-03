@@ -1,0 +1,190 @@
+{
+  "title": "Gunay Uslu",
+  "pageID": 69893125,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "21st-century Dutch historians",
+    "21st-century Dutch politicians",
+    "21st-century Dutch women politicians",
+    "Democrats 66 politicians",
+    "Dutch people of Turkish descent",
+    "Cultural historians",
+    "People from Haarlem",
+    "State Secretaries for Education of the Netherlands",
+    "University of Amsterdam alumni",
+    "University of Amsterdam faculty"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gunay Uslu (Günay Uslu; born 25 October 1972) is a Dutch cultural historian and politician, who has served as State Secretary for Culture and Media in the fourth Rutte cabinet since 10 January 2022.",
+              "links": [
+                {
+                  "text": "State Secretary for Culture and Media",
+                  "type": "internal",
+                  "page": "List of Ministers of Education of the Netherlands",
+                  "anchor": "List of State Secretaries for Education"
+                },
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gunay Uslu"
+                ]
+              }
+            },
+            {
+              "text": "She is a member of the Democrats 66 (D66) party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Democrats 66"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch cultural historian and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1972",
+          "month": "10",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Gunay Uslu"
+          },
+          "image": {
+            "text": "220107Gunay Uslu39 (cropped).jpg"
+          },
+          "caption": {
+            "text": "Uslu in 2022"
+          },
+          "office": {
+            "text": "State Secretary for Culture and Media",
+            "links": [
+              {
+                "text": "State Secretary for Culture and Media",
+                "type": "internal",
+                "page": "List of Ministers of Education of the Netherlands",
+                "anchor": "List of State Secretaries for Education"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "10 January 2022"
+          },
+          "primeminister": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sander Dekker (2012–2017), Not in use (2017–2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sander Dekker"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Not in use"
+              ]
+            }
+          },
+          "birthname": {
+            "text": "Gunay Uslu"
+          },
+          "birth_date": {
+            "text": "October 25, 1972"
+          },
+          "birth_place": {
+            "text": "Haarlem, Netherlands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haarlem"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Dutch"
+          },
+          "party": {
+            "text": "Democrats 66",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Democrats 66"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "University of Amsterdam (MA, PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Amsterdam"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Cultural historian · politician"
+          }
+        }
+      ]
+    }
+  ]
+}
