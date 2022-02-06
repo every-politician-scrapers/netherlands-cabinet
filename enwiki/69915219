@@ -13,7 +13,8 @@
     "Municipal councillors of Maastricht",
     "People from Beek",
     "Women academic administrators",
-    "Dutch lobbyists"
+    "Dutch lobbyists",
+    "State Secretaries for Infrastructure of the Netherlands"
   ],
   "sections": [
     {
@@ -116,6 +117,15 @@
               {
                 "type": "internal",
                 "page": "Steven van Weyenberg"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Mark Rutte",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Rutte"
               }
             ]
           },
