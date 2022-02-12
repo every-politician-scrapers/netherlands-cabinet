@@ -74,22 +74,33 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Franc Weerwind"
           },
           "image": {
-            "text": "Franc weerwind-1482238088 (cropped).jpg"
+            "text": "220107Franc Weerwind35 (cropped).jpg"
           },
           "caption": {
-            "text": "Weerwind in 2016"
+            "text": "Weerwind in 2022"
           },
           "office": {
-            "text": "Minister without Portfolio in the Ministry of Justice and Security",
+            "text": "Minister for Legal Protection",
             "links": [
               {
-                "text": "Minister without Portfolio in the Ministry of Justice and Security",
+                "text": "Minister for Legal Protection",
                 "type": "internal",
-                "page": "Ministry of Justice and Security"
+                "page": "List of Ministers of Justice of the Netherlands",
+                "anchor": "List of Ministers without Portfolio"
               }
             ]
           },
@@ -118,7 +129,6 @@
             "text": "Mayor of Almere",
             "links": [
               {
-                "text": "Mayor of Almere",
                 "type": "internal",
                 "page": "Almere"
               }
@@ -152,7 +162,6 @@
             "text": "Mayor of Velsen",
             "links": [
               {
-                "text": "Mayor of Velsen",
                 "type": "internal",
                 "page": "Velsen"
               }
@@ -168,7 +177,6 @@
             "text": "Mayor of Niedorp",
             "links": [
               {
-                "text": "Mayor of Niedorp",
                 "type": "internal",
                 "page": "Niedorp"
               }
