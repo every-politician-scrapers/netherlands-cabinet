@@ -4,32 +4,34 @@
   "categories": [
     "1967 births",
     "Living people",
+    "20th-century Dutch civil servants",
+    "20th-century Dutch politicians",
+    "20th-century Dutch women politicians",
+    "21st-century Dutch civil servants",
+    "21st-century Dutch politicians",
+    "21st-century Dutch women politicians",
     "Aldermen of Amsterdam",
     "Democrats 66 politicians",
-    "Dutch people of Swedish descent",
+    "Deputy Prime Ministers of the Netherlands",
     "Dutch people of Finnish descent",
     "Dutch people of Indonesian descent",
     "Dutch people of Russian descent",
-    "Dutch expatriates in France",
-    "Women government ministers of the Netherlands",
+    "Dutch people of Swedish descent",
+    "École nationale d'administration alumni",
+    "Female defence ministers",
+    "Female interior ministers",
     "Jonkvrouws of the Netherlands",
     "Lesbian politicians",
     "LGBT cabinet members of the Netherlands",
     "LGBT mayors of places in the Netherlands",
     "Mayors of Amsterdam",
+    "Ministers of Defence of the Netherlands",
+    "Ministers of Kingdom Relations of the Netherlands",
+    "Ministers of the Interior of the Netherlands",
     "People from Leiden",
     "University of Amsterdam alumni",
-    "École nationale d'administration alumni",
-    "Women mayors of places in the Netherlands",
-    "Ministers of the Interior of the Netherlands",
-    "Ministers of Kingdom Relations of the Netherlands",
-    "Female interior ministers",
-    "20th-century Dutch civil servants",
-    "20th-century Dutch women politicians",
-    "20th-century Dutch politicians",
-    "21st-century Dutch civil servants",
-    "21st-century Dutch women politicians",
-    "21st-century Dutch politicians"
+    "Women government ministers of the Netherlands",
+    "Women mayors of places in the Netherlands"
   ],
   "sections": [
     {
@@ -39,7 +41,7 @@
         {
           "sentences": [
             {
-              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren (born 28 May 1967) is a Dutch-Swedish politician who served as second Deputy Prime Minister of the Netherlands from 26 October 2017 to 1 November 2019 and again from 14 May 2020 to 10 January 2022 and Minister of the Interior and Kingdom Relations from 26 October 2017 to 1 November 2019 and again from 14 April 2020 to 10 January 2022 in the Third Rutte cabinet.",
+              "text": "Jkvr. Karin Hildur \"Kajsa\" Ollongren (born 28 May 1967) is a Dutch-Swedish politician serving as the Netherlands' Minister of Defence since 10 January 2022.",
               "links": [
                 {
                   "text": "Jkvr.",
@@ -47,17 +49,9 @@
                   "page": "Jonkheer"
                 },
                 {
+                  "text": "Minister of Defence",
                   "type": "internal",
-                  "page": "Deputy Prime Minister of the Netherlands"
-                },
-                {
-                  "text": "Minister of the Interior and Kingdom Relations",
-                  "type": "internal",
-                  "page": "List of Ministers of the Interior of the Netherlands"
-                },
-                {
-                  "type": "internal",
-                  "page": "Third Rutte cabinet"
+                  "page": "List of Ministers of Defence of the Netherlands"
                 }
               ],
               "formatting": {
@@ -69,20 +63,31 @@
               }
             },
             {
-              "text": "A member of the Democrats 66 (D66) party, she has served as Minister of Defence since 10 January 2022 in the Fourth Rutte cabinet.",
+              "text": "A member of the Democrats 66 (D66), she previously served as Minister of the Interior and Kingdom Relations and second Deputy Prime Minister in the third Rutte cabinet (2017–2022), and briefly as Mayor of Amsterdam (October 2017).",
               "links": [
                 {
                   "type": "internal",
                   "page": "Democrats 66"
                 },
                 {
-                  "text": "Minister of Defence",
+                  "text": "Minister of the Interior and Kingdom Relations",
                   "type": "internal",
-                  "page": "List of Ministers of Defence of the Netherlands"
+                  "page": "List of Ministers of the Interior of the Netherlands"
                 },
                 {
+                  "text": "second Deputy Prime Minister",
                   "type": "internal",
-                  "page": "Fourth Rutte cabinet"
+                  "page": "Deputy Prime Minister of the Netherlands"
+                },
+                {
+                  "text": "third Rutte cabinet",
+                  "type": "internal",
+                  "page": "third Rutte cabinet"
+                },
+                {
+                  "text": "Mayor of Amsterdam",
+                  "type": "internal",
+                  "page": "List of mayors of Amsterdam"
                 }
               ]
             }
@@ -306,7 +311,7 @@
             ]
           },
           "predecessor3": {
-            "text": "Raymond Knops",
+            "text": "Raymond Knops (acting)",
             "links": [
               {
                 "type": "internal",
@@ -348,7 +353,7 @@
             ]
           },
           "successor4": {
-            "text": "Raymond Knops",
+            "text": "Raymond Knops (acting)",
             "links": [
               {
                 "type": "internal",
@@ -399,7 +404,7 @@
             ]
           },
           "birthname": {
-            "text": "Jonkvrouw Karin Hildur Ollongren"
+            "text": "Karin Hildur Ollongren"
           },
           "birth_date": {
             "text": "May 28, 1967"
@@ -466,11 +471,6 @@
                 "page": "Master of Arts"
               },
               {
-                "text": "École nationale d'administration",
-                "type": "internal",
-                "page": "École nationale d'administration"
-              },
-              {
                 "type": "internal",
                 "page": "Master of Public Administration"
               }
@@ -487,16 +487,6 @@
                 "text": "civil servant",
                 "type": "internal",
                 "page": "Civil service"
-              }
-            ]
-          },
-          "website": {
-            "text": "Minister of the Interior and Kingdom Relations",
-            "links": [
-              {
-                "text": "Minister of the Interior and Kingdom Relations",
-                "type": "external",
-                "site": "https://www.government.nl/government/members-of-cabinet/kajsa-ollongren"
               }
             ]
           }
