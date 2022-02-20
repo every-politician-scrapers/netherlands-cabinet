@@ -32,9 +32,10 @@
         {
           "sentences": [
             {
-              "text": "Wopke Bastiaan Hoekstra (born 30 September 1975) is a Dutch politician who has served as Deputy Prime Minister of the Netherlands and Minister of Foreign Affairs in the fourth Rutte cabinet since 10 January 2022.",
+              "text": "Wopke Bastiaan Hoekstra (born 30 September 1975) is a Dutch politician who has served as second Deputy Prime Minister of the Netherlands and Minister of Foreign Affairs in the fourth Rutte cabinet since 10 January 2022.",
               "links": [
                 {
+                  "text": "second Deputy Prime Minister of the Netherlands",
                   "type": "internal",
                   "page": "Deputy Prime Minister of the Netherlands"
                 },
@@ -101,16 +102,30 @@
       ],
       "infoboxes": [
         {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
           "name": {
             "text": "Wopke Hoekstra"
           },
           "image": {
-            "text": "Wopke Hoekstra 2019 (cropped).jpg"
+            "text": "Wopke Hoekstra (2022) B (cropped).jpg"
+          },
+          "caption": {
+            "text": "Hoekstra in 2022"
           },
           "office": {
-            "text": "Deputy Prime Minister of the Netherlands",
+            "text": "Second Deputy Prime Minister of the Netherlands",
             "links": [
               {
+                "text": "Second Deputy Prime Minister of the Netherlands",
                 "type": "internal",
                 "page": "Deputy Prime Minister of the Netherlands"
               }
@@ -233,22 +248,6 @@
             ]
           },
           "office4": {
-            "text": "Senator of the Netherlands",
-            "links": [
-              {
-                "text": "Senator of the Netherlands",
-                "type": "internal",
-                "page": "Senate (Netherlands)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "7 June 2011"
-          },
-          "term_end4": {
-            "text": "26 October 2017"
-          },
-          "office5": {
             "text": "Member of the House of Representatives",
             "links": [
               {
@@ -258,8 +257,27 @@
               }
             ]
           },
-          "term_start5": {
+          "term_start4": {
             "text": "31 March 2021"
+          },
+          "term_end4": {
+            "text": "10 January 2022"
+          },
+          "office5": {
+            "text": "Member of the Senate",
+            "links": [
+              {
+                "text": "Senate",
+                "type": "internal",
+                "page": "Senate (Netherlands)"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "7 June 2011"
+          },
+          "term_end5": {
+            "text": "26 October 2017"
           },
           "birth_name": {
             "text": "Wopke Bastiaan Hoekstra"
