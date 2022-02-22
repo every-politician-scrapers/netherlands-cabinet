@@ -168,6 +168,27 @@
               }
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is also a notable member of Young Global Leaders, created by Klaus Schwab, Founder and Executive Chairman of the World Economic Forum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Young Global Leaders"
+                },
+                {
+                  "type": "internal",
+                  "page": "Klaus Schwab"
+                },
+                {
+                  "type": "internal",
+                  "page": "World Economic Forum"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
