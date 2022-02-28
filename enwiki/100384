@@ -43,11 +43,12 @@
         {
           "sentences": [
             {
-              "text": "Willem-Alexander (Willem-Alexander Claus George Ferdinand; born 27 April 1967) is the King of the Netherlands, having acceded to the throne following his mother's abdication in 2013.",
+              "text": "Willem-Alexander (Willem-Alexander Claus George Ferdinand; born 27 April 1967) is King of the Netherlands, having acceded to the throne following his mother's abdication in 2013.",
               "links": [
                 {
+                  "text": "King of the Netherlands",
                   "type": "internal",
-                  "page": "King of the Netherlands"
+                  "page": "Monarchy of the Netherlands"
                 },
                 {
                   "text": "his mother",
@@ -282,8 +283,9 @@
             "text": "King of the Netherlands",
             "links": [
               {
+                "text": "King of the Netherlands",
                 "type": "internal",
-                "page": "King of the Netherlands"
+                "page": "Monarchy of the Netherlands"
               }
             ]
           },
@@ -323,14 +325,15 @@
             ]
           },
           "reg-type": {
-            "text": "Prime minister"
+            "text": "Prime Minister"
           },
           "successor": {
             "text": "Catharina-Amalia",
             "links": [
               {
+                "text": "Catharina-Amalia",
                 "type": "internal",
-                "page": "Catharina-Amalia"
+                "page": "Catharina-Amalia, Princess of Orange"
               }
             ]
           },
@@ -386,8 +389,9 @@
             "text": "Claus von Amsberg",
             "links": [
               {
+                "text": "Claus von Amsberg",
                 "type": "internal",
-                "page": "Claus von Amsberg"
+                "page": "Prince Claus of the Netherlands"
               }
             ]
           },
