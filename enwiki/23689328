@@ -1,207 +1,22 @@
 {
-  "title": "Karien van Gennip",
-  "pageID": 23689328,
-  "categories": [
-    "1968 births",
-    "Living people",
-    "Christian Democratic Appeal politicians",
-    "Delft University of Technology alumni",
-    "Dutch columnists",
-    "Dutch management consultants",
-    "ING Group",
-    "INSEAD alumni",
-    "Ministers of Social Affairs of the Netherlands",
-    "Members of the House of Representatives (Netherlands)",
-    "People from Leidschendam",
-    "State Secretaries for Economic Affairs of the Netherlands",
-    "Women government ministers of the Netherlands",
-    "21st-century Dutch politicians",
-    "21st-century Dutch women politicians",
-    "Women columnists"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": " Catharina Elisabeth Godefrida (Karien) van Gennip  (born 3 October 1968 in Leidschendam) is a Dutch politician of the Christian Democratic Appeal (CDA).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Leidschendam"
-                },
-                {
-                  "text": "politician",
-                  "type": "internal",
-                  "page": "politician"
-                },
-                {
-                  "type": "internal",
-                  "page": "Christian Democratic Appeal"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  " Catharina Elisabeth Godefrida (Karien) van Gennip "
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Dutch politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1968",
-          "month": "10",
-          "day": "3",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Karien van Gennip"
-          },
-          "image": {
-            "text": "[[File:Flickr - europeanpeoplesparty - EPP Conference on Lisbon Strategy 25 November 2004 (7) (cropped).jpg|200px]]"
-          },
-          "caption": {
-            "text": "van Gennip in 2004"
-          },
-          "office": {
-            "text": "Minister of Social Affairs and Employment",
-            "links": [
-              {
-                "text": "Minister of Social Affairs and Employment",
-                "type": "internal",
-                "page": "Ministry of Social Affairs and Employment"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "predecessor": {
-            "text": "Wouter Koolmees",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Wouter Koolmees"
-              }
-            ]
-          },
-          "office1": {
-            "text": "State Secretary for Economic Affairs",
-            "links": [
-              {
-                "text": "State Secretary for Economic Affairs",
-                "type": "internal",
-                "page": "State Secretary"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Jan Balkenende",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jan Balkenende"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "27 May 2003"
-          },
-          "term_end1": {
-            "text": "22 February 2007"
-          },
-          "predecessor1": {
-            "text": "Joop Wijn",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Joop Wijn"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Frank Heemskerk",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Heemskerk"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the House of Representatives",
-            "links": [
-              {
-                "text": "Member of the House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Netherlands)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2006",
-            "number": 2006
-          },
-          "term_end2": {
-            "text": "2008",
-            "number": 2008
-          },
-          "birthname": {
-            "text": "Catharina Elisabeth Godefrida van Gennip"
-          },
-          "birth_date": {
-            "text": "October 3, 1968"
-          },
-          "birth_place": {
-            "text": "Leidschendam, Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leidschendam"
-              },
-              {
-                "type": "internal",
-                "page": "Netherlands"
-              }
-            ]
-          },
-          "party": {
-            "text": "Christian Democratic Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Democratic Appeal"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Karien van Gennip",
+  "image": "[[File:Flickr - europeanpeoplesparty - EPP Conference on Lisbon Strategy 25 November 2004 (7) (cropped).jpg|200px]]",
+  "caption": "van Gennip in 2004",
+  "office": "Minister of Social Affairs and Employment",
+  "primeminister": "Mark Rutte",
+  "term_start": "10 January 2022",
+  "predecessor": "Wouter Koolmees",
+  "office1": "State Secretary for Economic Affairs",
+  "primeminister1": "Jan Balkenende",
+  "term_start1": "27 May 2003",
+  "term_end1": "22 February 2007",
+  "predecessor1": "Joop Wijn",
+  "successor1": "Frank Heemskerk",
+  "office2": "Member of the House of Representatives",
+  "term_start2": "2006",
+  "term_end2": "2008",
+  "birthname": "Catharina Elisabeth Godefrida van Gennip",
+  "birth_date": "October 3, 1968",
+  "birth_place": "Leidschendam, Netherlands",
+  "party": "Christian Democratic Appeal"
 }

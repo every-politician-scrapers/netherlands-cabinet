@@ -1,244 +1,26 @@
 {
-  "title": "Dilan Yeşilgöz-Zegerius",
-  "pageID": 63015531,
-  "categories": [
-    "1977 births",
-    "Living people",
-    "21st-century Dutch women politicians",
-    "Dutch people of Kurdish descent",
-    "Dutch people of Turkish descent",
-    "Women government ministers of the Netherlands",
-    "Members of the House of Representatives (Netherlands)",
-    "Municipal councillors of Amsterdam",
-    "People from Ankara",
-    "People from Amsterdam",
-    "People's Party for Freedom and Democracy politicians",
-    "Turkish emigrants to the Netherlands",
-    "State Secretaries for Economic Affairs of the Netherlands",
-    "Ministers of Justice of the Netherlands",
-    "Female justice ministers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Dilan Yeşilgöz-Zegerius (born 18 June 1977) is a Dutch politician who has served as Minister of Justice and Security in the Fourth Rutte cabinet since 10 January 2022.",
-              "links": [
-                {
-                  "text": "Minister of Justice and Security",
-                  "type": "internal",
-                  "page": "List of Ministers of Justice of the Netherlands"
-                },
-                {
-                  "type": "internal",
-                  "page": "Fourth Rutte cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Dilan Yeşilgöz-Zegerius"
-                ]
-              }
-            },
-            {
-              "text": "A member of the People's Party for Freedom and Democracy (VVD), she previously served as a member of the House of Representatives from 2017 to 2021 and State Secretary for Economic Affairs and Climate Policy from 2021 until 2022.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "People's Party for Freedom and Democracy"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Netherlands)"
-                },
-                {
-                  "text": "State Secretary for Economic Affairs and Climate Policy",
-                  "type": "internal",
-                  "page": "List of Ministers of Economic Affairs of the Netherlands"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Dutch politician",
-          "template": "short description"
-        },
-        {
-          "year": "1977",
-          "month": "6",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Dilan Yeşilgöz-Zegerius"
-          },
-          "image": {
-            "text": "Yesilgoz2018.jpg"
-          },
-          "caption": {
-            "text": "Yeşilgöz-Zegerius in 2018"
-          },
-          "office": {
-            "text": "Minister of Justice and Security",
-            "links": [
-              {
-                "text": "Minister of Justice and Security",
-                "type": "internal",
-                "page": "List of Ministers of Justice of the Netherlands"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "primeminister": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ferdinand Grapperhaus",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ferdinand Grapperhaus"
-              }
-            ]
-          },
-          "office1": {
-            "text": "State Secretary for Economic Affairs and Climate Policy",
-            "links": [
-              {
-                "text": "State Secretary for Economic Affairs and Climate Policy",
-                "type": "internal",
-                "page": "List of Ministers of Economic Affairs of the Netherlands"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "25 May 2021"
-          },
-          "term_end1": {
-            "text": "10 January 2022"
-          },
-          "primeminister1": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Martijn van Dam (2017)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Martijn van Dam"
-              }
-            ]
-          },
-          "alongside1": {
-            "text": "Mona Keijzer (2021)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mona Keijzer"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Hans Vijlbrief",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hans Vijlbrief"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the House of Representatives",
-            "links": [
-              {
-                "text": "Member",
-                "type": "internal",
-                "page": "Member of parliament"
-              },
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Netherlands)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "23 March 2017"
-          },
-          "term_end2": {
-            "text": "3 September 2021"
-          },
-          "birth_date": {
-            "text": "June 18, 1977"
-          },
-          "birth_place": {
-            "text": "Ankara, Turkey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ankara"
-              },
-              {
-                "type": "internal",
-                "page": "Turkey"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Dilan Yeşilgöz"
-          },
-          "nationality": {
-            "text": "Turkish, Dutch"
-          },
-          "party": {
-            "text": "People's Party for Freedom and Democracy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "People's Party for Freedom and Democracy"
-              }
-            ]
-          },
-          "residence": {
-            "text": "Amsterdam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amsterdam"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Dilan Yeşilgöz-Zegerius",
+  "image": "Yesilgoz2018.jpg",
+  "caption": "Yeşilgöz-Zegerius in 2018",
+  "office": "Minister of Justice and Security",
+  "term_start": "10 January 2022",
+  "primeminister": "Mark Rutte",
+  "predecessor": "Ferdinand Grapperhaus",
+  "office1": "State Secretary for Economic Affairs and Climate Policy",
+  "term_start1": "25 May 2021",
+  "term_end1": "10 January 2022",
+  "primeminister1": "Mark Rutte",
+  "predecessor1": "Martijn van Dam (2017)",
+  "alongside1": "Mona Keijzer (2021)",
+  "successor1": "Hans Vijlbrief",
+  "office2": "Member of the House of Representatives",
+  "term_start2": "23 March 2017",
+  "term_end2": "3 September 2021",
+  "birth_date": "June 18, 1977",
+  "birth_place": "Ankara, Turkey",
+  "birthname": "Dilan Yeşilgöz",
+  "nationality": "Turkish, Dutch",
+  "party": "People's Party for Freedom and Democracy",
+  "residence": "Amsterdam",
+  "occupation": "Politician"
 }
