@@ -1,427 +1,48 @@
 {
-  "title": "Willem-Alexander of the Netherlands",
-  "pageID": 100384,
-  "categories": [
-    "1967 births",
-    "Amsberg",
-    "Collars of the Order of the Liberator General San Martin",
-    "Dutch aviators",
-    "Dutch monarchs",
-    "Dutch people of German descent",
-    "Extra Knights Companion of the Garter",
-    "Grand Collars of the Order of Prince Henry",
-    "Grand Crosses Special Class of the Order of Merit of the Federal Republic of Germany",
-    "House of Orange-Nassau",
-    "International Olympic Committee members",
-    "Jonkheers of Amsberg",
-    "Knights Grand Cross of the Order of Isabella the Catholic",
-    "Knights Grand Cross with Collar of the Order of Merit of the Italian Republic",
-    "Leiden University alumni",
-    "Living people",
-    "Members of the Council of State (Netherlands)",
-    "People educated at Atlantic College",
-    "People educated at a United World College",
-    "People from Utrecht (city)",
-    "People from Wassenaar",
-    "Princes of Orange",
-    "Princes of Orange-Nassau",
-    "Protestant Church Christians from the Netherlands",
-    "Protestant monarchs",
-    "Recipients of the Cross of Recognition",
-    "Recipients of the Olympic Order",
-    "Royal Netherlands Navy officers",
-    "Grand Crosses with Golden Chain of the Order of Vytautas the Great",
-    "Recipients of the Order of the Netherlands Lion",
-    "Recipients of the Collar of the Order of the Cross of Terra Mariana",
-    "Knights Grand Cordon of the Order of Chula Chom Klao"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Willem-Alexander (Willem-Alexander Claus George Ferdinand; born 27 April 1967) is King of the Netherlands, having acceded to the throne following his mother's abdication in 2013.",
-              "links": [
-                {
-                  "text": "King of the Netherlands",
-                  "type": "internal",
-                  "page": "Monarchy of the Netherlands"
-                },
-                {
-                  "text": "his mother",
-                  "type": "internal",
-                  "page": "Beatrix of the Netherlands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Willem-Alexander"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Willem-Alexander was born in Utrecht as the oldest child of Princess Beatrix and diplomat Claus van Amsberg.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Utrecht"
-                },
-                {
-                  "type": "internal",
-                  "page": "Princess Beatrix"
-                },
-                {
-                  "type": "internal",
-                  "page": "Claus van Amsberg"
-                }
-              ]
-            },
-            {
-              "text": "He became Prince of Orange as heir apparent upon his mother's accession as Queen on 30 April 1980, and succeeded her following her abdication on 30 April 2013.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Prince of Orange"
-                },
-                {
-                  "text": "heir apparent",
-                  "type": "internal",
-                  "page": "heir apparent"
-                },
-                {
-                  "text": "abdication",
-                  "type": "internal",
-                  "page": "abdication"
-                }
-              ]
-            },
-            {
-              "text": "He went to public primary and secondary schools in the Netherlands, an international sixth-form college in Wales, served in the Royal Netherlands Navy, and studied history at Leiden University.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Wales"
-                },
-                {
-                  "type": "internal",
-                  "page": "Royal Netherlands Navy"
-                },
-                {
-                  "type": "internal",
-                  "page": "Leiden University"
-                }
-              ]
-            },
-            {
-              "text": "He married Máxima Zorreguieta Cerruti in 2002 and they have three daughters: Catharina-Amalia, Princess of Orange (born 2003), Princess Alexia (born 2005), and Princess Ariane (born 2007).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Máxima Zorreguieta Cerruti"
-                },
-                {
-                  "type": "internal",
-                  "page": "Catharina-Amalia, Princess of Orange"
-                },
-                {
-                  "text": "Princess Alexia",
-                  "type": "internal",
-                  "page": "Princess Alexia of the Netherlands"
-                },
-                {
-                  "type": "internal",
-                  "page": "Princess Ariane"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Willem-Alexander is interested in sports and international water management issues.",
-              "links": [
-                {
-                  "text": "water management",
-                  "type": "internal",
-                  "page": "water management"
-                }
-              ]
-            },
-            {
-              "text": "Until his accession to the throne, he was a member of the International Olympic Committee (1998–2013), chairman of the Advisory Committee on Water to the Dutch Minister of Infrastructure and the Environment (2004–2013), and chairman of the Secretary-General of the United Nations' Advisory Board on Water and Sanitation (2006–2013).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "International Olympic Committee"
-                },
-                {
-                  "text": "Minister of Infrastructure and the Environment",
-                  "type": "internal",
-                  "page": "Ministry of Infrastructure and Water Management"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary-General of the United Nations"
-                },
-                {
-                  "text": "Advisory Board on Water and Sanitation",
-                  "type": "internal",
-                  "page": "UN-Water",
-                  "anchor": "Members and partners of UN-Water"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "King of the Netherlands since 2013",
-          "template": "short description"
-        },
-        {
-          "date": "April 2016",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1967",
-          "month": "4",
-          "day": "27",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "spouse": "Máxima Zorreguieta Cerruti",
-          "from": "2 February 2002",
-          "template": "marriage"
-        },
-        {
-          "list": [
-            "Catharina-Amalia, Princess of Orange",
-            "Princess Alexia",
-            "Princess Ariane"
-          ],
-          "template": "ubl"
-        },
-        {
-          "list": [
-            "Kingdom of the Netherlands"
-          ],
-          "template": "flagu"
-        },
-        {
-          "template": "dutch royal family"
-        },
-        {
-          "transcription": "ˈʋɪləm aːlɛkˈsɑndər",
-          "template": "ipa"
-        }
-      ],
-      "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "branch": {
-            "text": "Royal Netherlands Navy\n\nRoyal Netherlands Army\n\nRoyal Netherlands Air Force\n\nRoyal Marechaussee",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Royal Netherlands Navy"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Netherlands Army"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Netherlands Air Force"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Marechaussee"
-              }
-            ]
-          },
-          "serviceyears": {
-            "text": "1985–2013"
-          },
-          "rank": {
-            "text": "Commodore (Navy)\n\nBrigadier General (Army and Marechaussee)\n\nAir Commodore (Air Force)",
-            "links": [
-              {
-                "text": "Commodore",
-                "type": "internal",
-                "page": "Commodore (rank)"
-              },
-              {
-                "type": "internal",
-                "page": "Brigadier General"
-              },
-              {
-                "type": "internal",
-                "page": "Air Commodore"
-              }
-            ]
-          }
-        },
-        {
-          "name": {
-            "text": "Willem-Alexander"
-          },
-          "image": {
-            "text": "Zijne Majesteit Koning Willem-Alexander met koningsmantel april 2013 (cropped).jpg"
-          },
-          "caption": {
-            "text": "The King in 2013"
-          },
-          "succession": {
-            "text": "King of the Netherlands",
-            "links": [
-              {
-                "text": "King of the Netherlands",
-                "type": "internal",
-                "page": "Monarchy of the Netherlands"
-              }
-            ]
-          },
-          "reign": {
-            "text": "30 April 2013 – present"
-          },
-          "coronation": {
-            "text": "30 April 2013"
-          },
-          "cor-type": {
-            "text": "Inauguration",
-            "links": [
-              {
-                "text": "Inauguration",
-                "type": "internal",
-                "page": "Inauguration of the Dutch monarch"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Beatrix",
-            "links": [
-              {
-                "text": "Beatrix",
-                "type": "internal",
-                "page": "Beatrix of the Netherlands"
-              }
-            ]
-          },
-          "regent": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "reg-type": {
-            "text": "Prime Minister"
-          },
-          "successor": {
-            "text": "Catharina-Amalia",
-            "links": [
-              {
-                "text": "Catharina-Amalia",
-                "type": "internal",
-                "page": "Catharina-Amalia, Princess of Orange"
-              }
-            ]
-          },
-          "suc-type": {
-            "text": "Heir apparent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heir apparent"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "April 27, 1967"
-          },
-          "birth_name": {
-            "text": "Prince Willem-Alexander of the Netherlands"
-          },
-          "birth_place": {
-            "text": "Utrecht, Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Utrecht"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Máxima Zorreguieta Cerruti (m. 2 February 2002)"
-          },
-          "issue": {
-            "text": "Catharina-Amalia, Princess of Orange\n\nPrincess Alexia\n\nPrincess Ariane"
-          },
-          "full name": {
-            "text": "Willem-Alexander Claus George Ferdinand"
-          },
-          "house": {
-            "text": "Orange-Nassau (official)\nAmsberg (agnatic)",
-            "links": [
-              {
-                "text": "Orange-Nassau",
-                "type": "internal",
-                "page": "House of Orange-Nassau"
-              },
-              {
-                "text": "Amsberg",
-                "type": "internal",
-                "page": "House of Amsberg"
-              }
-            ]
-          },
-          "father": {
-            "text": "Claus von Amsberg",
-            "links": [
-              {
-                "text": "Claus von Amsberg",
-                "type": "internal",
-                "page": "Prince Claus of the Netherlands"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Beatrix of the Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Beatrix of the Netherlands"
-              }
-            ]
-          },
-          "religion": {
-            "text": "Protestant Church in the Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Protestant Church in the Netherlands"
-              }
-            ]
-          },
-          "signature": {
-            "text": "Handtekening Willem-Alexander.svg"
-          }
-        }
-      ]
-    }
-  ]
+  "embed": "yes",
+  "branch": "Royal Netherlands Navy\n\nRoyal Netherlands Army\n\nRoyal Netherlands Air Force\n\nRoyal Marechaussee",
+  "serviceyears": "1985–2013",
+  "rank": "Commodore (Navy)\n\nBrigadier General (Army and Marechaussee)\n\nAir Commodore (Air Force)"
+}
+{
+  "name": "Willem-Alexander",
+  "image": "Zijne Majesteit Koning Willem-Alexander met koningsmantel april 2013 (cropped).jpg",
+  "caption": "The King in 2013",
+  "succession": "King of the Netherlands",
+  "reign": "30 April 2013 – present",
+  "coronation": "30 April 2013",
+  "cor-type": "Inauguration",
+  "predecessor": "Beatrix",
+  "regent": "Mark Rutte",
+  "reg-type": "Prime Minister",
+  "successor": "Catharina-Amalia",
+  "suc-type": "Heir apparent",
+  "birth_date": "April 27, 1967",
+  "birth_name": "Prince Willem-Alexander of the Netherlands",
+  "birth_place": "Utrecht, Netherlands",
+  "spouse": "Máxima Zorreguieta Cerruti (m. 2 February 2002)",
+  "issue": "Catharina-Amalia, Princess of Orange\n\nPrincess Alexia\n\nPrincess Ariane",
+  "full name": "Willem-Alexander Claus George Ferdinand",
+  "house": "Orange-Nassau (official)\nAmsberg (agnatic)",
+  "father": "Claus von Amsberg",
+  "mother": "Beatrix of the Netherlands",
+  "religion": "Protestant Church in the Netherlands",
+  "signature": "Handtekening Willem-Alexander.svg"
+}
+{
+  "image": "Royal coat of arms of the Netherlands.svg",
+  "imagesize": "215px",
+  "bannerimage": "Royal Standard of the Netherlands.svg",
+  "notes": "As Monarch, Willem-Alexander uses the Greater Coat of Arms of the Realm, (or \"Grote Rijkswapen\"). The components of the coats of arms were updated and further regulated by Queen Wilhelmina in a royal decree of 10 July 1907 and were affirmed by Queen Juliana in a royal decree of 23 April 1980.",
+  "adopted": "10 July 1907 (a slightly adapted version of the original from 24 August 1815)",
+  "crest": "Issuing from a coronet Or, a pair of wings joined Sable each with an arched bend Argent charged with three leaves of the lime-tree stems upward Vert.",
+  "torse": "Azure and Or",
+  "helm": "Barred helmet",
+  "escutcheon": "Azure, billetty Or a lion with a coronet Or armed and langued Gules holding in his dexter paw a sword Argent hilted Or and in the sinister paw seven arrows Argent pointed and bound together Or.",
+  "supporters": "Two lions rampant Or armed and langued Gules",
+  "motto": "JE MAINTIENDRAI\nFrench: I will maintain (in Dutch: Ik zal handhaven)",
+  "other_elements": "The monarch places this coat of arms on a purple mantle, with golden borders and tassels, lined with Ermine. Above the mantle is a purple pavilion again topped with the royal crown. (Please note: Although the official blazon states the mantle as purple it often looks like (dark) red. French and German purple contains more red and less blue than American or British purple.)",
+  "banner": "Upon his succession to the throne, Willem-Alexander adopted the (partly modified) Royal Standard of the Netherlands, which is a square orange flag, divided in four-quarters by a nassau-blue cross. All quarters show a white and blue bugle-horn, taken from the coat of arms of the Principality of Orange. In the centre of the flag is the (small) coat of arms of the Kingdom, which originates from the arms of the House of Nassau, surmounted by a royal crown and surrounded by the insignia of the Grand Cross of the Military William Order.",
+  "symbolism": "The seven arrows stand for the seven provinces of the Union of Utrecht.",
+  "previous_versions": "Arms of the children of Beatrix of the Netherlands.svg Quarterly, 1 and 3, Azure, billetty or a lion with a coronet or armed and langued Gules holding in his dexter paw a sword Argent hilted or and in the sinister paw seven arrows Argent pointed and bound together or (royal arms of the Netherlands, i.e. that of his mother, Queen Beatrix), 2 and 4, Or, and a bugle-horn azure, langued gules (arms of the former Principality of Orange), on an inescutcheon vert, a castle proper, on a mount of the last (arms of the House of Amsberg, i.e. that of his late father, Prince Claus)."
 }

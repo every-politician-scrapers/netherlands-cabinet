@@ -1,337 +1,37 @@
 {
-  "title": "Wopke Hoekstra",
-  "pageID": 55783045,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Christian Democratic Appeal politicians",
-    "Dutch columnists",
-    "Dutch expatriates in France",
-    "Dutch expatriates in Germany",
-    "Dutch expatriates in Italy",
-    "Dutch expatriates in Singapore",
-    "Dutch management consultants",
-    "Dutch nonprofit directors",
-    "INSEAD alumni",
-    "Leaders of the Christian Democratic Appeal",
-    "Leiden University alumni",
-    "McKinsey & Company people",
-    "Members of the House of Representatives (Netherlands)",
-    "Members of the Senate (Netherlands)",
-    "Ministers of Finance of the Netherlands",
-    "People from Bussum",
-    "People from Ede, Netherlands",
-    "Remonstrants",
-    "People named in the Pandora Papers"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Wopke Bastiaan Hoekstra (born 30 September 1975) is a Dutch politician who has served as second Deputy Prime Minister of the Netherlands and Minister of Foreign Affairs in the fourth Rutte cabinet since 10 January 2022.",
-              "links": [
-                {
-                  "text": "second Deputy Prime Minister of the Netherlands",
-                  "type": "internal",
-                  "page": "Deputy Prime Minister of the Netherlands"
-                },
-                {
-                  "text": "Minister of Foreign Affairs",
-                  "type": "internal",
-                  "page": "List of Ministers of Foreign Affairs of the Netherlands"
-                },
-                {
-                  "text": "fourth Rutte cabinet",
-                  "type": "internal",
-                  "page": "fourth Rutte cabinet"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Wopke Bastiaan Hoekstra"
-                ]
-              }
-            },
-            {
-              "text": "He has also been Leader of the Christian Democratic Appeal (CDA) since 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Leader of the Christian Democratic Appeal"
-                }
-              ]
-            },
-            {
-              "text": "Hoekstra previously served as Minister of Finance in the third Rutte cabinet from 2017 to 2022.",
-              "links": [
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "List of Ministers of Finance of the Netherlands"
-                },
-                {
-                  "text": "third Rutte cabinet",
-                  "type": "internal",
-                  "page": "Third Rutte cabinet"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Dutch politician",
-          "template": "short description"
-        },
-        {
-          "date": "February 2022",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1975",
-          "month": "9",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "His Excellency",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              }
-            ]
-          },
-          "name": {
-            "text": "Wopke Hoekstra"
-          },
-          "image": {
-            "text": "Wopke Hoekstra (2022) B (cropped).jpg"
-          },
-          "caption": {
-            "text": "Hoekstra in 2022"
-          },
-          "office": {
-            "text": "Second Deputy Prime Minister of the Netherlands",
-            "links": [
-              {
-                "text": "Second Deputy Prime Minister of the Netherlands",
-                "type": "internal",
-                "page": "Deputy Prime Minister of the Netherlands"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "10 January 2022"
-          },
-          "predecessor": {
-            "text": "Kajsa Ollongren",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kajsa Ollongren"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "List of Ministers of Foreign Affairs of the Netherlands"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "10 January 2022"
-          },
-          "predecessor1": {
-            "text": "Ben Knapen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ben Knapen"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Leader of the Christian Democratic Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leader of the Christian Democratic Appeal"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "11 December 2020"
-          },
-          "predecessor2": {
-            "text": "Hugo de Jonge",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hugo de Jonge"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Finance",
-            "links": [
-              {
-                "text": "Minister of Finance",
-                "type": "internal",
-                "page": "List of Ministers of Finance of the Netherlands"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Mark Rutte",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Rutte"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "26 October 2017"
-          },
-          "term_end3": {
-            "text": "10 January 2022"
-          },
-          "predecessor3": {
-            "text": "Jeroen Dijsselbloem",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeroen Dijsselbloem"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Sigrid Kaag",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sigrid Kaag"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the House of Representatives",
-            "links": [
-              {
-                "text": "House of Representatives",
-                "type": "internal",
-                "page": "House of Representatives (Netherlands)"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "31 March 2021"
-          },
-          "term_end4": {
-            "text": "10 January 2022"
-          },
-          "office5": {
-            "text": "Member of the Senate",
-            "links": [
-              {
-                "text": "Senate",
-                "type": "internal",
-                "page": "Senate (Netherlands)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "7 June 2011"
-          },
-          "term_end5": {
-            "text": "26 October 2017"
-          },
-          "birth_name": {
-            "text": "Wopke Bastiaan Hoekstra"
-          },
-          "birth_date": {
-            "text": "September 30, 1975"
-          },
-          "birth_place": {
-            "text": "Bennekom, Netherlands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bennekom"
-              },
-              {
-                "type": "internal",
-                "page": "Netherlands"
-              }
-            ]
-          },
-          "party": {
-            "text": "Christian Democratic Appeal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Christian Democratic Appeal"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Liselot Hoornweg"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "education": {
-            "text": "Leiden University (LLB, LLM) INSEAD (MBA)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leiden University"
-              },
-              {
-                "type": "internal",
-                "page": "INSEAD"
-              }
-            ]
-          },
-          "website": {
-            "text": "Government website"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "His Excellency",
+  "name": "Wopke Hoekstra",
+  "image": "Wopke Hoekstra (2022) B (cropped).jpg",
+  "caption": "Hoekstra in 2022",
+  "office": "Second Deputy Prime Minister of the Netherlands",
+  "primeminister": "Mark Rutte",
+  "term_start": "10 January 2022",
+  "predecessor": "Kajsa Ollongren",
+  "office1": "Minister of Foreign Affairs",
+  "primeminister1": "Mark Rutte",
+  "term_start1": "10 January 2022",
+  "predecessor1": "Ben Knapen",
+  "office2": "Leader of the Christian Democratic Appeal",
+  "term_start2": "11 December 2020",
+  "predecessor2": "Hugo de Jonge",
+  "office3": "Minister of Finance",
+  "primeminister3": "Mark Rutte",
+  "term_start3": "26 October 2017",
+  "term_end3": "10 January 2022",
+  "predecessor3": "Jeroen Dijsselbloem",
+  "successor3": "Sigrid Kaag",
+  "office4": "Member of the House of Representatives",
+  "term_start4": "31 March 2021",
+  "term_end4": "10 January 2022",
+  "office5": "Member of the Senate",
+  "term_start5": "7 June 2011",
+  "term_end5": "26 October 2017",
+  "birth_name": "Wopke Bastiaan Hoekstra",
+  "birth_date": "September 30, 1975",
+  "birth_place": "Bennekom, Netherlands",
+  "party": "Christian Democratic Appeal",
+  "partner": "Liselot Hoornweg",
+  "children": "4",
+  "education": "Leiden University (LLB, LLM) INSEAD (MBA)",
+  "website": "Government website"
 }
