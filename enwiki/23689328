@@ -1,7 +1,7 @@
 {
   "name": "Karien van Gennip",
-  "image": "[[File:Flickr - europeanpeoplesparty - EPP Conference on Lisbon Strategy 25 November 2004 (7) (cropped).jpg|200px]]",
-  "caption": "van Gennip in 2004",
+  "image": "Flickr - europeanpeoplesparty - EPP Conference on Lisbon Strategy 25 November 2004 (7) (cropped).jpg",
+  "caption": "Van Gennip in 2004",
   "office": "Minister of Social Affairs and Employment",
   "primeminister": "Mark Rutte",
   "term_start": "10 January 2022",
@@ -13,10 +13,12 @@
   "predecessor1": "Joop Wijn",
   "successor1": "Frank Heemskerk",
   "office2": "Member of the House of Representatives",
-  "term_start2": "2006",
-  "term_end2": "2008",
+  "term_start2": "30 November 2006",
+  "term_end2": "3 September 2008",
   "birthname": "Catharina Elisabeth Godefrida van Gennip",
   "birth_date": "October 3, 1968",
   "birth_place": "Leidschendam, Netherlands",
-  "party": "Christian Democratic Appeal"
+  "party": "Christian Democratic Appeal",
+  "nationality": "Dutch",
+  "alma_mater": "Delft University of Technology INSEAD"
 }
