@@ -1,8 +1,6 @@
 {
   "honorific_prefix": "His Excellency",
   "name": "Mark Rutte",
-  "image": "Mark Rutte 2015 (1) (cropped).jpg",
-  "caption": "Rutte in 2015",
   "office": "Prime Minister of the Netherlands",
   "monarch": "Beatrix\nWillem-Alexander",
   "deputy": "Maxime Verhagen\nLodewijk Asscher\nHugo de Jonge\nKajsa Ollongren\nCarola Schouten\nSigrid Kaag\nWopke Hoekstra",
@@ -43,7 +41,6 @@
   "website": "Official website"
 }
 {
-  "image": "Mark Rutte, 2017.jpg",
   "name": "Premiership of Mark Rutte",
   "term_start": "14 October 2010",
   "term_end": "present",
