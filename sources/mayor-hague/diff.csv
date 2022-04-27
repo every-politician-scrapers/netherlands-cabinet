@@ -1,13 +1,9 @@
 @@,itemlabel,item,startdate,enddate
-+++,Hans Kolfschoten,Q1951178,1957-02-10,1968-10-16
-+++,Victor Marijnen,Q719701,1968-10-16,1975-04-05
-+++,Gerard Wallis  de Vries,Q2952431,1975-04-05,1975-10-14
+->,Gerard Wallis  de Vries->Gerard Wallis de Vries,Q2952431,1975-04-05,1975-10-14
 +++,Frans Schols,,1975-10-14,1985-06-01
----,Ad Havermans,Q2485663,1985,1996
 +++,Piet Vink,,1985-06-01,1985-09-01
-+++,Dr.,Q4618975,1985-09-01,1996-08-01
+->,Ad Havermans,Q2485663,1985->1985-09-01,1996->1996-08-01
 +++,Peter Noordanus,,1996-08-01,1996-12-01
 ->,Jozias van Aartsen,Q1366279,2008-03-27->2008-03-26,2017-03-01
 ->,Pauline Krikke,Q3259044,2017-03-17,2019-10-07->2019-10-06
-+++,Boudewijn Revis,Q47208581,2019-10-06,2019-10-12
 ->,Johan Remkes,Q465538,2019-10-11->2019-10-12,2020-07-01
