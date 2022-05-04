@@ -157,11 +157,14 @@ Q4787767,Ard van der Steur,father,Q2232889,Ab van der Steur
 Q5165280,Hanke Bruins Slot,father,Q2093954,Harm Bruins Slot
 Q518659,Léon de Jong,partner,Q467982,Fleur Agema
 Q554127,Wouter Bos,sibling,Q2279433,Arnoud Bos
+Q607189,Ed van Thijn,child,Q111820627,Marion van Thijn
 Q607189,Ed van Thijn,child,Q97397508,Carla van Thijn
 Q607189,Ed van Thijn,partner,Q2406653,Hedy d'Ancona
+Q607189,Ed van Thijn,spouse,Q111820517,Odette Taminiau
 Q607189,Ed van Thijn,spouse,Q2673879,Eveline Herfkens
 Q64590182,Johan Dessing,sibling,Q1973940,Floortje Dessing
 Q65055093,Gala Veldhoen,father,Q1862725,Aat Veldhoen
+Q65055093,Gala Veldhoen,spouse,Q2318560,Henny Vrienten
 Q704888,Geert Reuten,child,Q2244639,Rosa Reuten
 Q704888,Geert Reuten,relative,Q106518433,Thijs Reuten
 Q704888,Geert Reuten,relative,Q467729,Thekla Reuten
