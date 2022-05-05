@@ -22,8 +22,8 @@ class OfficeholderList < OfficeholderListBase
       super.gsub('heden', '')
     end
 
-    def tds
-      noko.css('td,th')
+    def ignore_before
+      1991
     end
   end
 end
