@@ -143,10 +143,12 @@ Q3488527,Michiel Patijn,sibling,Q1976542,Schelto Patijn
 Q3488527,Michiel Patijn,sibling,Q4304599,Jack Patijn
 Q377266,Sybrand van Haersma Buma,father,Q2607341,Bernard van Haersma Buma
 Q382598,Kathleen Ferrier,father,Q333129,Johan Ferrier
+Q382598,Kathleen Ferrier,partner,Q442061,Boris Dittrich
 Q382598,Kathleen Ferrier,sibling,Q2708085,Joan Ferrier
 Q382598,Kathleen Ferrier,sibling,Q443374,Cynthia McLeod
 Q4282422,Wim Passtoors,sibling,Q14631971,Hélène Passtoors
 Q434816,Ank Bijleveld,sibling,Q62517923,Bea Schouten
+Q442061,Boris Dittrich,partner,Q382598,Kathleen Ferrier
 Q4462875,Thierry Baudet,father,Q79851675,Marcel Baudet
 Q458066,Khadija Arib,child,Q69964882,Sabra Dahhan
 Q458066,Khadija Arib,child,Q69973701,Ghassan Dahhan
