@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Netherlands",
+      "id": "Q55"
+    },
+    "cabinet": {
+      "id": "Q110111120",
+      "start": "2022-01-10",
+      "parent": "Q2479200"
+    },
+    "source": {
+        "url":   "https://www.government.nl/government/members-of-cabinet",
+        "title": "Members of the government",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/netherlands-cabinet"
+}
