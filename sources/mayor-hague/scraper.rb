@@ -22,8 +22,8 @@ class OfficeholderList < OfficeholderListBase
       super.gsub(/\(.*?\)/, '').tidy
     end
 
-    def name_node
-      name_cell.css('a').last
+    def name_cell
+      super.css('a').last
     end
   end
 end

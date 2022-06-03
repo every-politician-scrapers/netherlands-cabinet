@@ -1,9 +1,4 @@
-@@,itemlabel,item,startdate,enddate
-->,Gerard Wallis  de Vries->Gerard Wallis de Vries,Q2952431,1975-04-05,1975-10-14
-+++,Frans Schols,,1975-10-14,1985-06-01
-+++,Piet Vink,,1985-06-01,1985-09-01
-->,Ad Havermans,Q2485663,1985->1985-09-01,1996->1996-08-01
-+++,Peter Noordanus,,1996-08-01,1996-12-01
-->,Jozias van Aartsen,Q1366279,2008-03-27->2008-03-26,2017-03-01
-->,Pauline Krikke,Q3259044,2017-03-17,2019-10-07->2019-10-06
-->,Johan Remkes,Q465538,2019-10-11->2019-10-12,2020-07-01
+@@,item,itemlabel,startdate,enddate
+->,Q1366279,Jozias van Aartsen,2008-03-27->2008-03-26,2017-03-01
+->,Q3259044,Pauline Krikke,2017-03-17,2019-10-07->2019-10-06
+->,Q465538,Johan Remkes,2019-10-11->2019-10-12,2020-07-01
