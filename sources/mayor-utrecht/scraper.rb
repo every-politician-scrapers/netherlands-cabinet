@@ -21,10 +21,6 @@ class OfficeholderList < OfficeholderListBase
     def raw_combo_date
       super.gsub('heden', 'Incumbent')
     end
-
-    def ignore_before
-      1999
-    end
   end
 end
 
