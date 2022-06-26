@@ -1,7 +1,7 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-,Q378651,Heemskerk-Van Lynden van Sandenburg Cabinet,1873-01-01,9,,,,,,,,,,,Q1719825,De Vries–Fransen van de Putte cabinet,Q1720040,Kappeyne van de Copello cabinet
+,Q378651,Heemskerk-Van Lynden van Sandenburg Cabinet,1873-08-27,11,,,1877-11-03,11,,,,,,,Q1719825,De Vries–Fransen van de Putte cabinet,Q1720040,Kappeyne van de Copello cabinet
 ,Q1720040,Kappeyne van de Copello cabinet,1877-11-03,11,,,1879-08-20,11,,,,,,,Q378651,Heemskerk-Van Lynden van Sandenburg Cabinet,Q1626821,Cabinet Van Lynden van Sandenburg
-,Q3313016,Cort van der Linden cabinet,1913-01-01,9,,,,,,,,,,,,,,
+,Q3313016,Cort van der Linden cabinet,1913-01-01,9,,,1918-09-09,11,,,,,,,,,,
 ,Q1719737,First Beel cabinet,1946-07-03,11,1946-07-03,11,1948-08-07,11,1948-08-07,11,Q1323229,Schermerhorn-Drees cabinet,,,,,Q1719852,Drees-Van Schaik cabinet
 ,Q1719852,Drees-Van Schaik cabinet,1948-08-07,11,1948-08-07,11,1951-03-15,11,1951-03-15,11,,,,,Q1719737,First Beel cabinet,Q971839,First Drees cabinet
 ,Q971839,First Drees cabinet,1951-03-15,11,1951-03-15,11,1952-09-02,11,1952-09-02,11,,,,,Q1719852,Drees-Van Schaik cabinet,Q1719855,Second Drees cabinet
