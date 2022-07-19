@@ -1,0 +1,139 @@
+{
+  "title": "Anthony Begina",
+  "pageID": 67336932,
+  "categories": [
+    "Living people",
+    "1954 births",
+    "Ministers plenipotentiary (Curaçao)",
+    "Curaçao politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anthony Begina (born 1954) is a Dutch politician, who has served as the Minister Plenipotentiary of Curaçao since 1 June 2017.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister Plenipotentiary of Curaçao"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anthony Begina"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Begina had previously served as Deputy Minister Plenipotentiary of Curaçao since 27 January 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Curaçao"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anthony Begina"
+          },
+          "office": {
+            "text": "Minister Plenipotentiary of Curaçao",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister Plenipotentiary of Curaçao"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "1 June 2017"
+          },
+          "monarch": {
+            "text": "Willem-Alexander",
+            "links": [
+              {
+                "text": "Willem-Alexander",
+                "type": "internal",
+                "page": "Willem-Alexander of the Netherlands"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Leendert Rojer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leendert Rojer"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "1954",
+            "number": 1954
+          },
+          "party": {
+            "text": "Real Alternative Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Real Alternative Party"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "1 June 2017",
+          "title": "Aantreden Gevolmachtigde Minister Anthony Begina",
+          "url": "https://www.kgmc.nl/nl/duplicaat-van-aantreden-gevolmachtigde-minister-leendert-rojer",
+          "url-status": "live",
+          "access-date": "8 April 2021",
+          "website": "Office of the Minister Plenipotentiary of Curaçao",
+          "language": "nl",
+          "archive-url": "https://web.archive.org/web/20171008152701/http://www.kgmc.nl/nl/duplicaat-van-aantreden-gevolmachtigde-minister-leendert-rojer",
+          "archive-date": "2017-10-08",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "27 January 2016",
+          "title": "New Deputy Minister Plenipotentiary Sworn In",
+          "work": "Curaçao Chronicle",
+          "url": "https://curacaochronicle.com/politics/new-deputy-minister-plenipotentiary-sworn-in/",
+          "access-date": "8 April 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

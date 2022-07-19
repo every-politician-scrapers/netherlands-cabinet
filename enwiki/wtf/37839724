@@ -1,0 +1,181 @@
+{
+  "title": "Désirée Bonis",
+  "pageID": 37839724,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Ambassadors of the Netherlands to Morocco",
+    "Ambassadors of the Netherlands to Syria",
+    "Dutch civil servants",
+    "Dutch women diplomats",
+    "Labour Party (Netherlands) politicians",
+    "Members of the House of Representatives (Netherlands)",
+    "Diplomats from Amsterdam",
+    "People from Velsen",
+    "21st-century Dutch politicians",
+    "21st-century Dutch women politicians",
+    "Dutch women ambassadors",
+    "Politicians from Amsterdam"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Désirée Bonis (born 5 July 1959, in Velsen) is a former Dutch politician and diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Velsen"
+                },
+                {
+                  "text": "Dutch",
+                  "type": "internal",
+                  "page": "Netherlands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Désirée Bonis"
+                ]
+              }
+            },
+            {
+              "text": "As a member of the Labour Party (Partij van de Arbeid) she was an MP from 20 September 2012 until 13 June 2013.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Netherlands)"
+                },
+                {
+                  "text": "MP",
+                  "type": "internal",
+                  "page": "House of Representatives (Netherlands)"
+                }
+              ]
+            },
+            {
+              "text": "She has been replaced by Yasemin Çegerek.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yasemin Çegerek"
+                }
+              ]
+            },
+            {
+              "text": "Previously she worked as director of the department Sub-Saharan Africa at the Dutch Ministry of Foreign Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sub-Saharan Africa"
+                },
+                {
+                  "text": "Dutch Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Netherlands)"
+                }
+              ]
+            },
+            {
+              "text": "She also performed several diplomatic duties; so she was ambassador to Syria from 2006 to 2010 (succeeded by Dolf Hogewoning).",
+              "links": [
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Syria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dolf Hogewoning"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Between 2013 and 2016 and she was the national coordinator for international positions at the Ministry of Foreign Affairs."
+            },
+            {
+              "text": "Bonis was Dutch ambassador to Morocco from 2016 to 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Morocco"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bonis studied history."
+            },
+            {
+              "text": "She is married, has two daughters."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:09._Désirée_Bonis.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/09._D%C3%A9sir%C3%A9e_Bonis.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/09._D%C3%A9sir%C3%A9e_Bonis.jpg",
+          "caption": "Désirée Bonis in 2011",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician and diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parlement.com/id/vj0kbaxtj4i0/d_e_desiree_bonis",
+          "title": "D.E. (Désirée) Bonis",
+          "language": "nl",
+          "publisher": "Parlement.com",
+          "access-date": "8 April 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "members of the house of representatives of the netherlands, 2012–present"
+        },
+        {
+          "template": "netherlands-pvda-politician-stub"
+        }
+      ]
+    }
+  ]
+}
