@@ -2126,7 +2126,7 @@
         {
           "sentences": [
             {
-              "text": "The previous cabinet had promised that the the extraction from the Groningen field would be stopped as soon as possible."
+              "text": "The previous cabinet had promised that the extraction from the Groningen field would be stopped as soon as possible."
             },
             {
               "text": "However, less than a week prior to Vijlbrief's swearing in, his predecessor – Minister of Economic Affairs and Climate Policy Stef Blok – had announced that the planned gas extraction in 2021/22 would be increased from 3.9 e9m3 to 7.6 e9m3 due to a delay in the construction of a nitrogen plant, which would allow for higher gas imports, and due to a rise in contractual deliveries to Germany.",
@@ -2151,10 +2151,7 @@
               "text": "Vijlbrief decided to raise the amount of money allocated to the subsidy by €250 million days later."
             },
             {
-              "text": "He also told on his first day as state secretary that he would look if he could do anything about the increase before a deadline on 1 April, and he finally announced the extraction for 2021/22 would end up being 4.5 e9m3 as a result of a warm winter and a more efficient utilization of existing nitrogen plants."
-            },
-            {
-              "text": "The additional decrease required the government to pay an estimated €7.5 billion to the petroleum company Nederlandse Aardolie Maatschappij (NAM) to fill the gas reserves."
+              "text": "He also told on his first day as state secretary that he would look if he could do anything about the increased gas extraction before a deadline on 1 April, and he finally announced the extraction for 2021/22 would end up being 4.5 e9m3 as a result of a warm winter and a more efficient utilization of existing nitrogen plants."
             }
           ]
         },
@@ -2177,14 +2174,40 @@
               "text": "He cited a report by the National Mines Inspectorate, which stated that it would be dangerous for Groningen inhabitants due to the threat of earthquakes, but ignored another report by the Mijnraad, which stated that not preparing for additional extraction could threaten a reliable supply of gas."
             },
             {
-              "text": "Vijlbrief reaffirmed that gas extraction locations would switch to pilot flame in October 2022 to keep the possibility of scaling up extraction and that they would shut down entirely in 2023 or 2024.",
+              "text": "Vijlbrief reaffirmed that gas extraction would be lowered to the amount necessary to maintain the possibility of scaling up in October 2022 and that extraction would be halted entirely in 2023 or 2024."
+            },
+            {
+              "text": "To make homes earthquake-resistant, Vijlbrief gave the go-ahead for an operation to systematically strengthen all structures in the villages of Garrelsweer, Zeerijp, Wirdum, and Leermens.",
               "links": [
                 {
-                  "text": "pilot flame",
+                  "text": "earthquake-resistant",
                   "type": "internal",
-                  "page": "pilot flame"
+                  "page": "earthquake-resistant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Garrelsweer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Zeerijp"
+                },
+                {
+                  "text": "Wirdum",
+                  "type": "internal",
+                  "page": "Wirdum, Groningen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leermens"
                 }
               ]
+            },
+            {
+              "text": "In June 2022, he announced legal action against the NAM for not paying €190 million it owed in earthquake damage compensation."
+            },
+            {
+              "text": "The government had billed the NAM €560 million in total since 2020, but the NAM had doubts about the justification for part of that figure."
             }
           ]
         }
@@ -2237,17 +2260,6 @@
           "type": "news"
         },
         {
-          "url": "https://fd.nl/politiek/1435388/rijk-schroeft-gaswinning-groningen-fractie-verder-terug-lrd2cabactbK",
-          "title": "Rijk schroeft gaswinning Groningen fractie verder terug",
-          "website": "Het Financieele Dagblad",
-          "date": "1 April 2022",
-          "access-date": "18 April 2022",
-          "language": "nl",
-          "trans-title": "National government lowers gas extraction from Groningen by another fraction",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "title": "Wat betekent afsluiten Russisch gas voor ons?",
           "date": "31 May 2022",
           "language": "nl",
@@ -2278,6 +2290,29 @@
           "date": "20 June 2022",
           "title": "Groningenveld dit najaar op waakvlam, boorputten blijven open",
           "trans-title": "Groningen field on pilot flame later this year, boreholes remain open",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://nos.nl/artikel/2429307-groningse-dorpen-sneller-versterkt-eindelijk-actie-in-de-kern-van-het-bevingsgebied",
+          "website": "NOS",
+          "access-date": "22 July 2022",
+          "language": "nl",
+          "title": "Groningse dorpen sneller versterkt: 'Eindelijk actie in de kern van het bevingsgebied'",
+          "date": "18 May 2022",
+          "trans-title": "Groningen villages strengthened more quickly: 'Finally action in the core of the earthquake area'",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://fd.nl/bedrijfsleven/1443897/staatssecretaris-vijlbrief-dient-claim-in-tegen-nam-voor-openstaande-190-mln-gwg2cacVZcPB",
+          "date": "29 June 2022",
+          "language": "nl",
+          "access-date": "22 July 2022",
+          "url-access": "subscription",
+          "website": "FD",
+          "title": "Staatssecretaris Vijlbrief dient claim in tegen NAM voor openstaande €190 mln",
+          "trans-title": "State Secretary Vijlbrief files a claim with the NAM for unpaid €190 million",
           "template": "citation",
           "type": "news"
         }
@@ -2431,7 +2466,7 @@
               "text": "He met his wife, Manouche Hetzler, while he was studying at the Vrije Universiteit."
             },
             {
-              "text": "His son, Sam, is also politically active, having been placed sixth on D66's party list in Kaag en Braassem in the 2022 municipal elections."
+              "text": "His son, Sam, is also politically active, having been elected to the Kaag en Braassem municipal council in the 2022 elections on behalf of D66."
             },
             {
               "text": "Vijlbrief currently resides in the South Holland village of Woubrugge, and he is a supporter of football club Feyenoord.",
@@ -2460,6 +2495,20 @@
           "date": "17 March 2021",
           "last": "Garnier",
           "first": "Terence",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.ad.nl/politiek/crisismagneet-vijlbrief-trekt-zich-het-leed-van-gedupeerden-erg-aan-het-gaat-door-merg-en-been~ac114a39/",
+          "website": "AD",
+          "last": "Garnier",
+          "first": "Terence",
+          "date": "10 July 2022",
+          "language": "nl",
+          "access-date": "22 July 2022",
+          "title": "'Crisismagneet' Vijlbrief trekt zich het leed van gedupeerden erg aan: 'Het gaat door merg en been'",
+          "trans-title": "'Crisis magnet' Vijlbrief really cares about the suffering of the victims: 'It cuts right to the bone'",
+          "url-access": "subscription",
           "template": "citation",
           "type": "news"
         }
