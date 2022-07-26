@@ -529,40 +529,12 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In 1999 and 2002 Knot ran the New York Marathon and the Amsterdam Marathon, achieving times of 3.32.31, and 3.19.34 respectively.",
-              "links": [
-                {
-                  "text": "New York Marathon",
-                  "type": "internal",
-                  "page": "New York City Marathon"
-                },
-                {
-                  "type": "internal",
-                  "page": "Amsterdam Marathon"
-                }
-              ]
-            }
-          ]
         }
       ],
-      "references": [
+      "templates": [
         {
-          "url": "https://fd.nl/frontpage/Archief/745454/voorbestemd-om-een-hoofdrol-te-gaan-spelen",
-          "title": "Voorbestemd om een hoofdrol te gaan spelen",
-          "website": "Het Financieele Dagblad",
-          "access-date": "18 March 2022",
-          "url-access": "registration",
-          "language": "Dutch",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "June 2019",
-          "template": "citation needed"
+          "date": "July 2022",
+          "template": "cn"
         }
       ]
     },
