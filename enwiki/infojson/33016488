@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chair of the People's Party for Freedom and Democracy"
+      ],
+      "stated_as": "Chairman of the People's Party for Freedom and Democracy"
+    },
+    "P580": "2003-11-28",
+    "P1365": {
+      "links": [
+        "Bas Eenhoorn"
+      ],
+      "stated_as": "Bas Eenhoorn"
+    },
+    "P582": "2008-05-23",
+    "P1366": {
+      "links": [
+        "Ivo Opstelten"
+      ],
+      "stated_as": "Ivo Opstelten"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Amstelveen"
+      ],
+      "stated_as": "Mayor of Amstelveen"
+    },
+    "P580": "2005-07-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Harry Kamphuis"
+    },
+    "P582": "2014-01-01",
+    "P1366": {
+      "links": [
+        "Fred de Graaf"
+      ],
+      "stated_as": "Fred de Graaf (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Utrecht"
+      ],
+      "stated_as": "Mayor of Utrecht"
+    },
+    "P580": "2014-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Aleid Wolfsen"
+    },
+    "P582": "2020-07-01",
+    "P1366": {
+      "links": [
+        "Peter den Oudsten"
+      ],
+      "stated_as": "Peter den Oudsten (Acting)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of The Hague"
+      ],
+      "stated_as": "Mayor of The Hague"
+    },
+    "P580": "2020-07-01",
+    "P1365": {
+      "links": [
+        "Johan Remkes"
+      ],
+      "stated_as": "Johan Remkes (Acting)"
+    }
+  }
+]

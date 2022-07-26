@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+        "De Nederlandsche Bank"
+      ],
+      "stated_as": "President of De Nederlandsche Bank"
+    },
+    "P580": "2011-07-01",
+    "P1365": {
+      "links": [
+        "Nout Wellink"
+      ],
+      "stated_as": "Nout Wellink"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Financial Stability Board"
+      ],
+      "stated_as": "Chair of the Financial Stability Board"
+    },
+    "P580": "2021-12-02",
+    "P1365": {
+      "links": [
+        "Randal Quarles"
+      ],
+      "stated_as": "Randal Quarles"
+    }
+  }
+]

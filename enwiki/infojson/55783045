@@ -1,0 +1,89 @@
+[
+  {
+    "office": {
+      "links": [
+        "Senate (Netherlands)"
+      ],
+      "stated_as": "Member of the Senate"
+    },
+    "P580": "2011-06-07",
+    "P582": "2017-10-26"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Finance of the Netherlands"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2017-10-26",
+    "P1365": {
+      "links": [
+        "Jeroen Dijsselbloem"
+      ],
+      "stated_as": "Jeroen Dijsselbloem"
+    },
+    "P582": "2022-01-10",
+    "P1366": {
+      "links": [
+        "Sigrid Kaag"
+      ],
+      "stated_as": "Sigrid Kaag"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the Christian Democratic Appeal"
+      ],
+      "stated_as": "Leader of the Christian Democratic Appeal"
+    },
+    "P580": "2020-12-11",
+    "P1365": {
+      "links": [
+        "Hugo de Jonge"
+      ],
+      "stated_as": "Hugo de Jonge"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2021-03-31",
+    "P582": "2022-01-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Deputy Prime Minister of the Netherlands"
+      ],
+      "stated_as": "Deputy Prime Minister of the Netherlands"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Kajsa Ollongren"
+      ],
+      "stated_as": "Kajsa Ollongren"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of the Netherlands"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Ben Knapen"
+      ],
+      "stated_as": "Ben Knapen"
+    }
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chair of the People's Party for Freedom and Democracy"
+      ],
+      "stated_as": "Chairman of the People's Party for Freedom and Democracy"
+    },
+    "P580": "1975-03-15",
+    "P1365": {
+      "links": [
+        "Haya van Someren"
+      ],
+      "stated_as": "Haya van Someren"
+    },
+    "P582": "1981-05-22",
+    "P1366": {
+      "links": [
+        "Jan Kamminga"
+      ],
+      "stated_as": "Jan Kamminga"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Senate (Netherlands)"
+      ],
+      "stated_as": "Member of the Senate"
+    },
+    "P580": "1981-06-10",
+    "P582": "1982-11-04"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Justice of the Netherlands"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "1982-11-04",
+    "P1365": {
+      "links": [
+        "Job de Ruiter"
+      ],
+      "stated_as": "Job de Ruiter"
+    },
+    "P582": "1989-11-07",
+    "P1366": {
+      "links": [
+        "Ernst Hirsch Ballin"
+      ],
+      "stated_as": "Ernst Hirsch Ballin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of the Interior of the Netherlands"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "1986-02-20",
+    "P1365": {
+      "links": [
+        "Koos Rietkerk"
+      ],
+      "stated_as": "Koos Rietkerk"
+    },
+    "P582": "1986-03-12",
+    "P1366": {
+      "links": [
+        "Rudolf de Korte"
+      ],
+      "stated_as": "Rudolf de Korte"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of the Interior of the Netherlands"
+      ],
+      "stated_as": "Minister of the Interior"
+    },
+    "P580": "1987-01-26",
+    "P1365": {
+      "links": [
+        "Kees van Dijk"
+      ],
+      "stated_as": "Kees van Dijk"
+    },
+    "P582": "1987-02-03",
+    "P1366": {
+      "links": [
+        "Jan de Koning (Christian Democratic Appeal)"
+      ],
+      "stated_as": "Jan de Koning (Ad interim)"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1989-09-14",
+    "P582": "1991-06-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Senate (Netherlands)"
+      ],
+      "stated_as": "Member of the Senate"
+    },
+    "P580": "1991-06-11",
+    "P582": "2001-10-02"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary leader",
+        "Senate (Netherlands)"
+      ],
+      "stated_as": "Parliamentary leader in the Senate"
+    },
+    "P580": "1995-06-13",
+    "P1365": {
+      "links": [
+        "David Luteijn"
+      ],
+      "stated_as": "David Luteijn"
+    },
+    "P582": "1997-03-11",
+    "P1366": {
+      "links": [
+        "Leendert Ginjaar"
+      ],
+      "stated_as": "Leendert Ginjaar"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Senate (Netherlands)"
+      ],
+      "stated_as": "President of the Senate"
+    },
+    "P580": "1997-03-11",
+    "P1365": {
+      "links": [
+        "Herman Tjeenk Willink"
+      ],
+      "stated_as": "Herman Tjeenk Willink"
+    },
+    "P582": "2001-10-02",
+    "P1366": {
+      "links": [
+        "Gerrit Braks"
+      ],
+      "stated_as": "Gerrit Braks"
+    }
+  }
+]

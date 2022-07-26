@@ -1,0 +1,132 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Social Affairs of the Netherlands"
+      ],
+      "stated_as": "State Secretary for Social Affairs and Employment"
+    },
+    "P580": "2002-07-22",
+    "P1365": {
+      "links": [
+        "Hans Hoogervorst",
+        "Annelies Verstand"
+      ],
+      "stated_as": "Hans Hoogervorst\nAnnelies Verstand"
+    },
+    "P582": "2004-06-17",
+    "P1366": {
+      "links": [
+        "Henk van Hoof"
+      ],
+      "stated_as": "Henk van Hoof"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2003-01-30",
+    "P582": "2003-05-27"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Education of the Netherlands"
+      ],
+      "stated_as": "State Secretary for Education, Culture and Science"
+    },
+    "P580": "2004-06-17",
+    "P1365": {
+      "links": [
+        "Annette Nijs"
+      ],
+      "stated_as": "Annette Nijs"
+    },
+    "P582": "2006-06-27",
+    "P1366": {
+      "links": [
+        "Bruno Bruins"
+      ],
+      "stated_as": "Bruno Bruins"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Leader of the People's Party for Freedom and Democracy"
+      ],
+      "stated_as": "Leader of the People's Party for Freedom and Democracy"
+    },
+    "P580": "2006-05-31",
+    "P1365": {
+      "links": [
+        "Jozias van Aartsen"
+      ],
+      "stated_as": "Jozias van Aartsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2006-06-28",
+    "P582": "2010-10-14"
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of the Netherlands"
+      ],
+      "stated_as": "Prime Minister of the Netherlands"
+    },
+    "P580": "2010-10-14",
+    "P1365": {
+      "links": [
+        "Jan Peter Balkenende"
+      ],
+      "stated_as": "Jan Peter Balkenende"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2012-09-20",
+    "P582": "2012-11-05"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2017-03-23",
+    "P582": "2017-10-26"
+  },
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2021-03-31",
+    "P582": "2022-01-10"
+  }
+]

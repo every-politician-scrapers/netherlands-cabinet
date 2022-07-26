@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1976-10-12",
+    "P582": "1981-09-11"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of the Netherlands"
+      ],
+      "stated_as": "LState Secretary for Foreign Affairs"
+    },
+    "P580": "1981-09-11",
+    "P1365": {
+      "links": [
+        "Durk van der Mei"
+      ],
+      "stated_as": "Durk van der Mei"
+    },
+    "P582": "1982-11-04",
+    "P1366": {
+      "links": [
+        "Wim van Eekelen"
+      ],
+      "stated_as": "Wim van Eekelen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1982-09-16",
+    "P582": "1982-11-04"
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Foreign Affairs of the Netherlands"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "1982-11-04",
+    "P1365": {
+      "links": [
+        "Dries van Agt"
+      ],
+      "stated_as": "Dries van Agt"
+    },
+    "P582": "1993-01-03",
+    "P1366": {
+      "links": [
+        "Pieter Kooijmans"
+      ],
+      "stated_as": "Pieter Kooijmans"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1986-06-03",
+    "P582": "1986-07-14"
+  },
+  {
+    "office": {
+      "links": [
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1989-09-14",
+    "P582": "1989-11-07"
+  },
+  {
+    "office": {
+      "links": [
+        "List of European Commissioners by nationality"
+      ],
+      "stated_as": "European Commissioner"
+    },
+    "P580": "1993-01-06",
+    "P1365": {
+      "links": [
+        "Frans Andriessen"
+      ],
+      "stated_as": "Frans Andriessen"
+    },
+    "P582": "1999-09-16",
+    "P1366": {
+      "links": [
+        "Frits Bolkestein"
+      ],
+      "stated_as": "Frits Bolkestein"
+    }
+  }
+]
