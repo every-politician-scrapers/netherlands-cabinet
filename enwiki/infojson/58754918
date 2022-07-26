@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "2017-03-23",
+    "P582": "2022-01-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary leader",
+        "Democrats 66",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Leader of the Democrats 66 in the House of Representatives"
+    },
+    "P580": "2018-10-09",
+    "P1365": {
+      "links": [
+        "Alexander Pechtold"
+      ],
+      "stated_as": "Alexander Pechtold"
+    },
+    "P582": "2021-03-18",
+    "P1366": {
+      "links": [
+        "Sigrid Kaag"
+      ],
+      "stated_as": "Sigrid Kaag"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary leader",
+        "Democrats 66",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Leader of the Democrats 66 in the House of Representatives"
+    },
+    "P580": "2021-05-25",
+    "P1365": {
+      "links": [
+        "Sigrid Kaag"
+      ],
+      "stated_as": "Sigrid Kaag"
+    },
+    "P582": "2021-09-28",
+    "P1366": {
+      "links": [
+        "Sigrid Kaag"
+      ],
+      "stated_as": "Sigrid Kaag"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of Ministers of Economic Affairs of the Netherlands"
+      ],
+      "stated_as": "Minister for Climate and Energy Policy"
+    },
+    "P580": "2022-01-10"
+  }
+]

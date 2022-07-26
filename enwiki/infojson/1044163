@@ -1,0 +1,52 @@
+[
+  {
+    "office": {
+      "links": [
+        "Member of parliament",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Member of the House of Representatives"
+    },
+    "P580": "1998-05-19",
+    "P582": "2011-01-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary leader",
+        "GroenLinks",
+        "House of Representatives (Netherlands)"
+      ],
+      "stated_as": "Leader of GroenLinks in the House of Representatives"
+    },
+    "P580": "2002-11-26",
+    "P1365": {
+      "links": [
+        "Paul Rosenmöller"
+      ],
+      "stated_as": "Paul Rosenmöller"
+    },
+    "P582": "2010-12-16",
+    "P1366": {
+      "links": [
+        "Jolande Sap"
+      ],
+      "stated_as": "Jolande Sap"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "List of mayors of Amsterdam"
+      ],
+      "stated_as": "Mayor of Amsterdam"
+    },
+    "P580": "2018-07-12",
+    "P1365": {
+      "links": [
+        "Jozias van Aartsen"
+      ],
+      "stated_as": "Jozias van Aartsen"
+    }
+  }
+]

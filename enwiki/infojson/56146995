@@ -1,0 +1,38 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chairmen of the People's Party for Freedom and Democracy"
+      ],
+      "stated_as": "Chairwoman of the People's Party for Freedom and Democracy"
+    },
+    "P580": "2017-11-25",
+    "P1365": {
+      "links": [
+        "Henry Keizer"
+      ],
+      "stated_as": "Henry Keizer"
+    },
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Incumbent"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture, Nature and Food Quality"
+      ],
+      "stated_as": "Minister for Nature and Nitrogen Policy"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Carola Schouten"
+      ],
+      "stated_as": "Carola Schouten"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Netherlands (European Parliament constituency)"
+      ],
+      "stated_as": "the Netherlands"
+    },
+    "P580": "2019-07-02",
+    "P582": "2022-01-10"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister for Foreign Trade and Development Cooperation (Netherlands)"
+      ],
+      "stated_as": "Minister for Foreign Trade and Development Cooperation"
+    },
+    "P580": "2022-01-10",
+    "P1365": {
+      "links": [
+        "Tom de Bruijn"
+      ],
+      "stated_as": "Tom de Bruijn"
+    }
+  }
+]
