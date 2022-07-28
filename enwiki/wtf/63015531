@@ -11,8 +11,8 @@
     "Women government ministers of the Netherlands",
     "Members of the House of Representatives (Netherlands)",
     "Municipal councillors of Amsterdam",
-    "People from Ankara",
-    "People from Amsterdam",
+    "Politicians from Ankara",
+    "Politicians from Amsterdam",
     "People's Party for Freedom and Democracy politicians",
     "Turkish emigrants to the Netherlands",
     "State Secretaries for Economic Affairs of the Netherlands",
@@ -321,6 +321,12 @@
           "title": "De wispelturige politieke zoektocht van Dilan Yesilgöz-Zegerius",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "date": "26 May 2021",
