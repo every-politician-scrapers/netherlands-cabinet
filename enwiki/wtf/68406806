@@ -5,10 +5,14 @@
     "1965 births",
     "Living people",
     "21st-century Dutch politicians",
+    "Aldermen of Amsterdam",
     "Mayors of Amsterdam",
     "Members of the Senate (Netherlands)",
-    "People from Amsterdam",
-    "People's Party for Freedom and Democracy politicians"
+    "Municipal councillors of Amsterdam",
+    "People's Party for Freedom and Democracy politicians",
+    "People from Ooststellingwerf",
+    "Politicians from Amsterdam‎",
+    "State Secretaries for Justice of the Netherlands"
   ],
   "sections": [
     {
@@ -18,7 +22,19 @@
         {
           "sentences": [
             {
-              "text": "Eric van der Burg (born 9 October 1965) is a Dutch politician.",
+              "text": "Eric van der Burg (born 9 October 1965) is a Dutch politician, who has served as State Secretary for Justice and Security in the fourth Rutte cabinet since 10 January 2022.",
+              "links": [
+                {
+                  "text": "State Secretary for Justice and Security",
+                  "type": "internal",
+                  "page": "List of Ministers of Justice of the Netherlands"
+                },
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Eric van der Burg"
@@ -45,7 +61,7 @@
               ]
             },
             {
-              "text": "Eric van der Burg previously had a lengthy political career in the municipality of Amsterdam which culminated in his brief service as ad interim Mayor of Amsterdam in 2017.",
+              "text": "Van der Burg previously had a lengthy political career in the municipality of Amsterdam which culminated in his brief service as ad interim Mayor of Amsterdam in 2017.",
               "links": [
                 {
                   "text": "Mayor of Amsterdam",
@@ -97,6 +113,12 @@
           },
           "name": {
             "text": "Eric van der Burg"
+          },
+          "image": {
+            "text": "Eric van der Burg, 2016 (cropped).png"
+          },
+          "caption": {
+            "text": "Van der Burg in 2016"
           },
           "office": {
             "text": "State Secretary for Justice and Security",
@@ -179,7 +201,7 @@
             ]
           },
           "successor2": {
-            "text": "Jozias van Aartsen (Acting)",
+            "text": "Jozias van Aartsen (acting)",
             "links": [
               {
                 "type": "internal",
@@ -196,18 +218,11 @@
               {
                 "type": "internal",
                 "page": "Amsterdam"
-              },
-              {
-                "type": "internal",
-                "page": "Netherlands"
               }
             ]
           },
-          "nationality": {
-            "text": "Dutch"
-          },
           "party": {
-            "text": "People's Party for Freedom and Democracy",
+            "text": "People's Party for Freedom and Democracy (VVD)",
             "links": [
               {
                 "type": "internal",
@@ -215,32 +230,17 @@
               }
             ]
           },
-          "alma_mater": {
-            "text": "Vrije Universiteit Amsterdam (Law)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vrije Universiteit Amsterdam"
-              }
-            ]
-          },
           "residence": {
-            "text": "Amsterdam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amsterdam"
-              }
-            ]
+            "text": "Amsterdam, Netherlands"
           }
         }
       ],
       "references": [
         {
-          "title": "E. van der Burg (VVD) - Eerste Kamer der Staten-Generaal",
+          "title": "E. van der Burg (VVD)",
           "url": "https://www.eerstekamer.nl/persoon/e_van_der_burg_vvd",
           "access-date": "2021-08-05",
-          "website": "www.eerstekamer.nl",
+          "website": "Eerste Kamer der Staten-Generaal",
           "language": "nl",
           "template": "citation",
           "type": "web"
@@ -271,10 +271,10 @@
               ]
             },
             {
-              "text": "Van der Burg later moved back to Amsterdam where he currently resides."
+              "text": "He later moved back to Amsterdam, where he currently resides."
             },
             {
-              "text": "For secondary education, van der Burg participated in the VWO program at.",
+              "text": "Van der Burg attended the secondary school, where he completed the VWO programme.",
               "links": [
                 {
                   "text": "VWO",
@@ -284,7 +284,7 @@
               ]
             },
             {
-              "text": "After graduating, van der Burg attended the Free University of Amsterdam from 1984 until July 1981 ***dates seem incorrect, maybe reversed dates*** where he obtained a degree in law.",
+              "text": "After graduating, he studied law at the Free University of Amsterdam from 1984 to 1991, but did not obtain a degree.",
               "links": [
                 {
                   "text": "Free University of Amsterdam",
@@ -313,43 +313,54 @@
         {
           "sentences": [
             {
-              "text": "Van der Burg began his political career in 1987, when he served as a local Councilor in the Amsterdam district of Zuidoost.",
+              "text": "Van der Burg began his political career in 1987, when he served as a district councillor in the Amsterdam district of Zuidoost.",
               "links": [
                 {
-                  "text": "district of Zuidoost",
+                  "text": "Zuidoost",
                   "type": "internal",
                   "page": "Amsterdam-Zuidoost"
                 }
               ]
             },
             {
-              "text": "In 2001, van der Burg became a City Councilor for Amsterdam and remained in that role until 2010."
-            },
-            {
-              "text": "Then, from 2014 until 2017, van der Burg served two terms as a City Alderman where he was made the manager of Health and Welfare, the Elderly, Sport and Recreation, Spatial Planning, Airports, and Land Management for his district of Zoidoost.",
+              "text": "In 2001, Van der Burg became a member of the municipal council of Amsterdam, and remained in that role until 2010.",
               "links": [
                 {
-                  "text": "Zoidoost",
+                  "text": "municipal council",
                   "type": "internal",
-                  "page": "Amsterdam-Zuidoost"
+                  "page": "Municipal council (Netherlands)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2014 to 2019, Van der Burg served two terms as an alderman.",
+              "links": [
+                {
+                  "text": "alderman",
+                  "type": "internal",
+                  "page": "Wethouder"
                 }
               ]
             },
             {
-              "text": "In 2017, van der Burg replaced the previous Mayor of Amsterdam, Kajsa Ollongren, and was given the post of acting Mayor for three months.",
+              "text": "His portfolio included health, sport, spatial planning, airports and the district Zuidoost."
+            },
+            {
+              "text": "In 2017, Van der Burg replaced Kajsa Ollongren as acting Mayor of Amsterdam for three months.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Mayor of Amsterdam"
-                },
                 {
                   "type": "internal",
                   "page": "Kajsa Ollongren"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mayor of Amsterdam"
                 }
               ]
-            },
-            {
-              "text": "After his stint as Mayor, van der Burg returned to work as a City Councilor until 2019."
             }
           ]
         }
@@ -370,7 +381,7 @@
           "title": "Eric van der Burg",
           "url": "http://programme2017.european-utility-week.com/speaker/eric-van-der-burg",
           "access-date": "2021-08-05",
-          "website": "European utility week",
+          "website": "European Utility Week",
           "language": "en",
           "template": "citation",
           "type": "web"
@@ -379,7 +390,7 @@
           "url": "https://www.parlement.com/id/vkwreswhgn8s/e_eric_van_der_burg",
           "title": "E. (Eric) van der Burg",
           "access-date": "2021-08-23",
-          "website": "parlement.com",
+          "website": "Parlement.com",
           "url-status": "live",
           "language": "nl",
           "template": "citation",
@@ -389,15 +400,15 @@
     },
     {
       "title": "Senate",
-      "depth": 0,
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "In June 2019, van der Burg was elected to First Chamber of the States General of the Netherlands, where he currently serves.",
+              "text": "In June 2019, Van der Burg was elected into the Senate of the States General of the Netherlands.",
               "links": [
                 {
-                  "text": "First Chamber",
+                  "text": "Senate",
                   "type": "internal",
                   "page": "Senate (Netherlands)"
                 },
@@ -408,121 +419,44 @@
               ]
             },
             {
-              "text": "Throughout his time on the Senate, van der Burg has served on several different committees."
+              "text": "While a member of the Senate, Van der Burg has served on several different committees."
             },
             {
-              "text": "From December 2020 until February 2021, van der Berg served as the Vice-Chairman of the temporary Research Proposal Committee for a Parliamentary Inquiry into Discrimination in the Netherlands."
+              "text": "From December 2020 to February 2021, van der Berg served as the vice-chairman of the temporary Research Proposal Committee for a parliamentary inquiry into discrimination in the Netherlands."
             },
             {
-              "text": "That committee's proposal for an inquiry was accepted, and van der Burg now serves as the Vice-Chairman of the Parliamentary Inquiry Committee on Discrimination in the Netherlands."
+              "text": "The committee's proposal for an inquiry was accepted, and Van der Burg subsequently served as vice-chairman of the Parliamentary Inquiry Committee on Discrimination in the Netherlands."
             }
           ]
         }
       ]
     },
     {
-      "title": "Other positions",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Van der Burg has been involved in many institutions outside of his governmental work."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Current",
+      "title": "State Secretary for Justice and Security",
       "depth": 1,
       "paragraphs": [
         {
           "sentences": [
             {
-              "text": "As of August 2021, van der Berg held the following positions outside of government:"
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "Aidsfonds",
-            "nl"
-          ],
-          "template": "interlanguage link"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Board member of Friendship Sports Center, as of 1 September, 2020."
-          },
-          {
-            "text": "Chairman of the National Organization of Social Counselors, as of 1 February, 2020."
-          },
-          {
-            "text": "Chairman of the Sports Commemoration Committee, as of 5 May, 2019."
-          },
-          {
-            "text": "Chairman of the Netherlands Board of Social Work, as of 14 March, 2019."
-          },
-          {
-            "text": "Chairman of the Supervisory Board of, as of 7 March, 2019."
-          },
-          {
-            "text": "Ambassador of the Amsterdam Rescue Brigade, as of 15 January, 2019."
-          },
-          {
-            "text": "Chairman of the Supervisory Board of Safe at Home of Rotterdam and Rijnmond, as of 1 January, 2019."
-          },
-          {
-            "text": "Chairman of the Board of the Athletics Union, as of 1 December, 2018."
-          },
-          {
-            "text": "Chairman of the Floriade Board of Commissioners, as of 1 October, 2018."
-          },
-          {
-            "text": "Board member of the Yvonne van Gennip Talent Fund, as of 27 June, 2018."
-          }
-        ]
-      ]
-    },
-    {
-      "title": "Former",
-      "depth": 1,
-      "paragraphs": [
-        {
-          "sentences": [
+              "text": "On 10 January 2022, Van der Burg joined the fourth Rutte cabinet as State Secretary for Justice and Security.",
+              "links": [
+                {
+                  "text": "fourth Rutte cabinet",
+                  "type": "internal",
+                  "page": "fourth Rutte cabinet"
+                },
+                {
+                  "text": "State Secretary for Justice and Security",
+                  "type": "internal",
+                  "page": "List of Ministers of Justice of the Netherlands"
+                }
+              ]
+            },
             {
-              "text": "The following is a list of positions formerly by van der Burg outside of his work in government:"
+              "text": "While on foreign business, he is allowed to use the title \"Minister for Migration\"."
             }
           ]
         }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Chairman of the Board of Sports Service Netherland, from 5 July, 2019 to 1 November, 2019."
-          },
-          {
-            "text": "Board member of Life Goals, from 1 December, 2018 to 1 November, 2019."
-          },
-          {
-            "text": "Board member of the Resistance Museum from 5 October, 2018 to 15 April, 2020.",
-            "links": [
-              {
-                "text": "Resistance Museum",
-                "type": "internal",
-                "page": "Verzetsmuseum"
-              }
-            ]
-          },
-          {
-            "text": "Member of the Supervisory Board of the Dutch Foundation for Disabled Children, from 11 December, 2013 to 15 July, 2019."
-          }
-        ]
       ]
     },
     {
@@ -547,7 +481,13 @@
           "template": "mayors of amsterdam"
         },
         {
-          "template": "mayors of capital cities of european union member states"
+          "template": "members of the senate of the netherlands, 2019–23"
+        },
+        {
+          "template": "state secretaries for justice of the netherlands"
+        },
+        {
+          "template": "fourth rutte cabinet"
         },
         {
           "template": "authority control"
