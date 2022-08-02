@@ -295,7 +295,7 @@
               "text": "Due to his ability to come out of political scandals with his reputation undamaged, Rutte has been referred to as \"Teflon Mark\"."
             },
             {
-              "text": "At, he is the second longest-serving Prime Minister in Dutch history, after Ruud Lubbers (1982–1994).",
+              "text": "As of August, 2, 2022, he became the longest-serving Prime Minister in Dutch history, at that point succeeding Ruud Lubbers (1982–1994) by one day.",
               "links": [
                 {
                   "type": "internal",
@@ -699,6 +699,28 @@
           "title": "'Teflon' Mark Rutte set for fourth Dutch term after record-breaking talks",
           "website": "TheGuardian.com",
           "date": "14 December 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Sterling",
+          "first": "Toby",
+          "date": "2022-08-02",
+          "title": "Mark Rutte becomes Netherlands' longest-serving prime minister",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/europe/mark-rutte-becomes-netherlands-longest-serving-prime-minister-2022-08-02/",
+          "access-date": "2022-08-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-08-01",
+          "title": "Mark Rutte becomes longest serving Dutch prime minister",
+          "url": "https://www.dutchnews.nl/news/2022/08/mark-rutte-becomes-longest-serving-dutch-prime-minister/",
+          "access-date": "2022-08-02",
+          "website": "DutchNews.nl",
+          "language": "en-GB",
           "template": "citation",
           "type": "web"
         }
