@@ -1,0 +1,153 @@
+{
+  "title": "John Jorritsma",
+  "pageID": 18687903,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Dutch civil servants",
+    "Dutch Roman Catholics",
+    "Mayors of Eindhoven",
+    "Members of the Provincial Council of North Brabant",
+    "People from Bolsward",
+    "People's Party for Freedom and Democracy politicians",
+    "King's and Queen's Commissioners of Friesland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Johannes Arnoldus \"John\" Jorritsma (born 16 September 1956) is a Dutch politician serving as Mayor of Eindhoven since 13 September 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mayor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eindhoven"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Johannes Arnoldus \"John\" Jorritsma"
+                ]
+              }
+            },
+            {
+              "text": "A member of the People's Party for Freedom and Democracy (VVD), he previously was the King's Commissioner of the province of Friesland between 16 May 2008 and 12 September 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Party for Freedom and Democracy"
+                },
+                {
+                  "type": "internal",
+                  "page": "King's Commissioner"
+                },
+                {
+                  "text": "province",
+                  "type": "internal",
+                  "page": "Provinces of the Netherlands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Friesland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A native of Bolsward, Jorritsma was a member of the States of North Brabant from 1994 to 1998 and Mayor of Cranendonck between 1997 and 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bolsward"
+                },
+                {
+                  "type": "internal",
+                  "page": "States of North Brabant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cranendonck"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:John_Jorritsma.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/John_Jorritsma.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/John_Jorritsma.jpg",
+          "caption": "Jorritsma as Mayor of Eindhoven, 2016",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Dutch politician",
+          "template": "short description"
+        },
+        {
+          "date": "March 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "John Jorritsma voorgedragen als nieuwe CdK in Fryslân",
+          "language": "Dutch",
+          "url": "http://www.radionof.nl/?page=1&id=5066",
+          "accessdate": "29 November 2010",
+          "newspaper": "RTV Noordoost-Friesland",
+          "date": "12 March 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Friese commissaris: entreegeld voor natuur",
+          "url": "http://www.telegraaf.nl/binnenland/8307944/___Entreegeld_voor_natuur___.html?sn=binnenland",
+          "accessdate": "29 November 2010",
+          "newspaper": "De Telegraaf",
+          "date": "24 Nov 2010",
+          "language": "Dutch",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.parlement.com/id/vht82rkb7ivc/j_a_john_jorritsma",
+          "title": "J.A. (John) Jorritsma",
+          "language": "Dutch",
+          "publisher": "Parlement.com",
+          "accessdate": "21 December 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "netherlands-vvd-politician-stub"
+        },
+        {
+          "template": "netherlands-mayor-stub"
+        }
+      ]
+    }
+  ]
+}
